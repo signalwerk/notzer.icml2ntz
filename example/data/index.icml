@@ -1,0 +1,1698 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?aid style="50" type="snippet" readerVersion="6.0" featureSet="257" product="13.1(76)" ?>
+<?aid SnippetType="InCopyInterchange"?>
+<Document DOMVersion="13.1" Self="d">
+	<Color Self="Color/Schwarz" Model="Process" Space="CMYK" ColorValue="0 0 0 100" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Schwarz" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u9982ColorGroupSwatchc" />
+	<Ink Self="Ink/$ID/Process Cyan" Name="$ID/Process Cyan" Angle="75" ConvertToProcess="false" Frequency="70" NeutralDensity="0.61" PrintInk="true" TrapOrder="1" InkType="Normal" />
+	<Ink Self="Ink/$ID/Process Magenta" Name="$ID/Process Magenta" Angle="15" ConvertToProcess="false" Frequency="70" NeutralDensity="0.76" PrintInk="true" TrapOrder="2" InkType="Normal" />
+	<Ink Self="Ink/$ID/Process Yellow" Name="$ID/Process Yellow" Angle="0" ConvertToProcess="false" Frequency="70" NeutralDensity="0.16" PrintInk="true" TrapOrder="3" InkType="Normal" />
+	<Ink Self="Ink/$ID/Process Black" Name="$ID/Process Black" Angle="45" ConvertToProcess="false" Frequency="70" NeutralDensity="1.7" PrintInk="true" TrapOrder="4" InkType="Normal" />
+	<Ink Self="Ink/Passkreuze" Name="Passkreuze" Angle="45" ConvertToProcess="false" Frequency="70" NeutralDensity="2.743244528235227" PrintInk="true" TrapOrder="5" InkType="Normal" />
+	<Swatch Self="Swatch/None" Name="None" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u9982ColorGroupSwatch0" />
+	<StrokeStyle Self="StrokeStyle/$ID/Solid" Name="$ID/Solid" />
+	<FontFamily Self="di3e" Name="Minion Pro">
+		<Font Self="di3eFontnMinion Pro Bold Cond" FontFamily="Minion Pro" Name="Minion Pro Bold Cond" PostScriptName="MinionPro-BoldCn" Status="Substituted" FontStyleName="Bold Cond" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Cond" FullNameNative="Minion Pro Bold Cond" FontStyleNameNative="Bold Cond" PlatformName="$ID/" Version="Version 2.108;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
+		<Font Self="di3eFontnMinion Pro Bold Cond Italic" FontFamily="Minion Pro" Name="Minion Pro Bold Cond Italic" PostScriptName="MinionPro-BoldCnIt" Status="Substituted" FontStyleName="Bold Cond Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Cond Italic" FullNameNative="Minion Pro Bold Cond Italic" FontStyleNameNative="Bold Cond Italic" PlatformName="$ID/" Version="Version 2.108;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
+		<Font Self="di3eFontnMinion Pro Regular" FontFamily="Minion Pro" Name="Minion Pro Regular" PostScriptName="MinionPro-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro" FullNameNative="Minion Pro" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
+		<Font Self="di3eFontnMinion Pro Italic" FontFamily="Minion Pro" Name="Minion Pro Italic" PostScriptName="MinionPro-It" Status="Substituted" FontStyleName="Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Italic" FullNameNative="Minion Pro Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 2.115;PS 2.000;hotconv 1.0.78;makeotf.lib2.5.61930" TypekitID="$ID/" />
+		<Font Self="di3eFontnMinion Pro Medium" FontFamily="Minion Pro" Name="Minion Pro Medium" PostScriptName="MinionPro-Medium" Status="Substituted" FontStyleName="Medium" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Medium" FullNameNative="Minion Pro Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 2.115;PS 2.000;hotconv 1.0.78;makeotf.lib2.5.61930" TypekitID="$ID/" />
+		<Font Self="di3eFontnMinion Pro Medium Italic" FontFamily="Minion Pro" Name="Minion Pro Medium Italic" PostScriptName="MinionPro-MediumIt" Status="Substituted" FontStyleName="Medium Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Medium Italic" FullNameNative="Minion Pro Medium Italic" FontStyleNameNative="Medium Italic" PlatformName="$ID/" Version="Version 2.108;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
+		<Font Self="di3eFontnMinion Pro Semibold" FontFamily="Minion Pro" Name="Minion Pro Semibold" PostScriptName="MinionPro-Semibold" Status="Substituted" FontStyleName="Semibold" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Semibold" FullNameNative="Minion Pro Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 2.108;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
+		<Font Self="di3eFontnMinion Pro Semibold Italic" FontFamily="Minion Pro" Name="Minion Pro Semibold Italic" PostScriptName="MinionPro-SemiboldIt" Status="Substituted" FontStyleName="Semibold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Semibold Italic" FullNameNative="Minion Pro Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 2.108;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
+		<Font Self="di3eFontnMinion Pro Bold" FontFamily="Minion Pro" Name="Minion Pro Bold" PostScriptName="MinionPro-Bold" Status="Substituted" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold" FullNameNative="Minion Pro Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 2.068;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895" TypekitID="$ID/" />
+		<Font Self="di3eFontnMinion Pro Bold Italic" FontFamily="Minion Pro" Name="Minion Pro Bold Italic" PostScriptName="MinionPro-BoldIt" Status="Substituted" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Italic" FullNameNative="Minion Pro Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 2.108;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="di95" Name="Myriad Pro">
+		<Font Self="di95FontnMyriad Pro Condensed" FontFamily="Myriad Pro" Name="Myriad Pro Condensed" PostScriptName="MyriadPro-Cond" Status="Substituted" FontStyleName="Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Condensed" FullNameNative="Myriad Pro Condensed" FontStyleNameNative="Condensed" PlatformName="$ID/" Version="Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
+		<Font Self="di95FontnMyriad Pro Condensed Italic" FontFamily="Myriad Pro" Name="Myriad Pro Condensed Italic" PostScriptName="MyriadPro-CondIt" Status="Substituted" FontStyleName="Condensed Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Condensed Italic" FullNameNative="Myriad Pro Condensed Italic" FontStyleNameNative="Condensed Italic" PlatformName="$ID/" Version="Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
+		<Font Self="di95FontnMyriad Pro Bold Condensed" FontFamily="Myriad Pro" Name="Myriad Pro Bold Condensed" PostScriptName="MyriadPro-BoldCond" Status="Substituted" FontStyleName="Bold Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold Condensed" FullNameNative="Myriad Pro Bold Condensed" FontStyleNameNative="Bold Condensed" PlatformName="$ID/" Version="Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
+		<Font Self="di95FontnMyriad Pro Bold Condensed Italic" FontFamily="Myriad Pro" Name="Myriad Pro Bold Condensed Italic" PostScriptName="MyriadPro-BoldCondIt" Status="Substituted" FontStyleName="Bold Condensed Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold Condensed Italic" FullNameNative="Myriad Pro Bold Condensed Italic" FontStyleNameNative="Bold Condensed Italic" PlatformName="$ID/" Version="Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
+		<Font Self="di95FontnMyriad Pro Regular" FontFamily="Myriad Pro" Name="Myriad Pro Regular" PostScriptName="MyriadPro-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro" FullNameNative="Myriad Pro" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
+		<Font Self="di95FontnMyriad Pro Italic" FontFamily="Myriad Pro" Name="Myriad Pro Italic" PostScriptName="MyriadPro-It" Status="Installed" FontStyleName="Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Italic" FullNameNative="Myriad Pro Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
+		<Font Self="di95FontnMyriad Pro Semibold" FontFamily="Myriad Pro" Name="Myriad Pro Semibold" PostScriptName="MyriadPro-Semibold" Status="Installed" FontStyleName="Semibold" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Semibold" FullNameNative="Myriad Pro Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
+		<Font Self="di95FontnMyriad Pro Semibold Italic" FontFamily="Myriad Pro" Name="Myriad Pro Semibold Italic" PostScriptName="MyriadPro-SemiboldIt" Status="Substituted" FontStyleName="Semibold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Semibold Italic" FullNameNative="Myriad Pro Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
+		<Font Self="di95FontnMyriad Pro Bold" FontFamily="Myriad Pro" Name="Myriad Pro Bold" PostScriptName="MyriadPro-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold" FullNameNative="Myriad Pro Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
+		<Font Self="di95FontnMyriad Pro Bold Italic" FontFamily="Myriad Pro" Name="Myriad Pro Bold Italic" PostScriptName="MyriadPro-BoldIt" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold Italic" FullNameNative="Myriad Pro Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
+		<Font Self="di95FontnMyriad Pro Light" FontFamily="Myriad Pro" Name="Myriad Pro Light" PostScriptName="MyriadPro-Light" Status="Substituted" FontStyleName="Light" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Light" FullNameNative="Myriad Pro Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="OTF 1.006;PS 001.000;Core 1.0.23;hotunix 1.28" TypekitID="$ID/" />
+		<Font Self="di95FontnMyriad Pro Light Italic" FontFamily="Myriad Pro" Name="Myriad Pro Light Italic" PostScriptName="MyriadPro-LightIt" Status="Substituted" FontStyleName="Light Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Light Italic" FullNameNative="Myriad Pro Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="dia2" Name="Kozuka Mincho Pro">
+		<Font Self="dia2FontnKozuka Mincho Pro EL" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro EL" PostScriptName="KozMinPro-ExtraLight" Status="Substituted" FontStyleName="EL" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro EL" FullNameNative="小塚明朝 Pro EL" FontStyleNameNative="EL" PlatformName="$ID/" Version="Version 4.013;PS 4.003;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
+		<Font Self="dia2FontnKozuka Mincho Pro L" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro L" PostScriptName="KozMinPro-Light" Status="Substituted" FontStyleName="L" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro L" FullNameNative="小塚明朝 Pro L" FontStyleNameNative="L" PlatformName="$ID/" Version="Version 4.013;PS 4.003;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
+		<Font Self="dia2FontnKozuka Mincho Pro R" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro R" PostScriptName="KozMinPro-Regular" Status="Substituted" FontStyleName="R" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro R" FullNameNative="小塚明朝 Pro R" FontStyleNameNative="R" PlatformName="$ID/" Version="Version 4.013;PS 4.003;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
+		<Font Self="dia2FontnKozuka Mincho Pro M" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro M" PostScriptName="KozMinPro-Medium" Status="Substituted" FontStyleName="M" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro M" FullNameNative="小塚明朝 Pro M" FontStyleNameNative="M" PlatformName="$ID/" Version="Version 4.013;PS 4.003;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
+		<Font Self="dia2FontnKozuka Mincho Pro B" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro B" PostScriptName="KozMinPro-Bold" Status="Substituted" FontStyleName="B" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro B" FullNameNative="小塚明朝 Pro B" FontStyleNameNative="B" PlatformName="$ID/" Version="Version 4.013;PS 4.003;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
+		<Font Self="dia2FontnKozuka Mincho Pro H" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro H" PostScriptName="KozMinPro-Heavy" Status="Substituted" FontStyleName="H" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro H" FullNameNative="小塚明朝 Pro H" FontStyleNameNative="H" PlatformName="$ID/" Version="Version 4.013;PS 4.003;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="die5" Name="Helvetica (OTF)">
+		<Font Self="die5FontnHelvetica (OTF) Compressed" FontFamily="Helvetica (OTF)" Name="Helvetica (OTF) Compressed" PostScriptName="Helvetica-Compressed" Status="Substituted" FontStyleName="Compressed" FontType="OpenTypeCFF" WritingScript="0" FullName="Helvetica Compressed" FullNameNative="Helvetica Compressed" FontStyleNameNative="Compressed" PlatformName="$ID/" Version="OTF 1.0;PS 001.002;Core 1.0.22" TypekitID="$ID/" />
+		<Font Self="die5FontnHelvetica (OTF) Light Condensed" FontFamily="Helvetica (OTF)" Name="Helvetica (OTF) Light Condensed" PostScriptName="Helvetica-Condensed-Light" Status="Substituted" FontStyleName="Light Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Helvetica Light Condensed" FullNameNative="Helvetica Light Condensed" FontStyleNameNative="Light Condensed" PlatformName="$ID/" Version="OTF 1.0;PS 002.000;Core 1.0.22" TypekitID="$ID/" />
+		<Font Self="die5FontnHelvetica (OTF) Light Condensed Oblique" FontFamily="Helvetica (OTF)" Name="Helvetica (OTF) Light Condensed Oblique" PostScriptName="Helvetica-Condensed-LightObl" Status="Substituted" FontStyleName="Light Condensed Oblique" FontType="OpenTypeCFF" WritingScript="0" FullName="Helvetica Light Condensed Oblique" FullNameNative="Helvetica Light Condensed Oblique" FontStyleNameNative="Light Condensed Oblique" PlatformName="$ID/" Version="OTF 1.0;PS 002.000;Core 1.0.22" TypekitID="$ID/" />
+		<Font Self="die5FontnHelvetica (OTF) Condensed Oblique" FontFamily="Helvetica (OTF)" Name="Helvetica (OTF) Condensed Oblique" PostScriptName="Helvetica-Condensed-Oblique" Status="Substituted" FontStyleName="Condensed Oblique" FontType="OpenTypeCFF" WritingScript="0" FullName="Helvetica Condensed Oblique" FullNameNative="Helvetica Condensed Oblique" FontStyleNameNative="Condensed Oblique" PlatformName="$ID/" Version="OTF 1.0;PS 002.000;Core 1.0.22" TypekitID="$ID/" />
+		<Font Self="die5FontnHelvetica (OTF) Bold Condensed" FontFamily="Helvetica (OTF)" Name="Helvetica (OTF) Bold Condensed" PostScriptName="Helvetica-Condensed-Bold" Status="Substituted" FontStyleName="Bold Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Helvetica Bold Condensed" FullNameNative="Helvetica Bold Condensed" FontStyleNameNative="Bold Condensed" PlatformName="$ID/" Version="OTF 1.0;PS 002.000;Core 1.0.22" TypekitID="$ID/" />
+		<Font Self="die5FontnHelvetica (OTF) Light" FontFamily="Helvetica (OTF)" Name="Helvetica (OTF) Light" PostScriptName="Helvetica-Light" Status="NotAvailable" FontStyleName="Light" FontType="OpenTypeCFF" WritingScript="0" FullName="Helvetica Light" FullNameNative="Helvetica Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="OTF 1.0;PS 001.004;Core 1.0.22" TypekitID="$ID/" />
+		<Font Self="die5FontnHelvetica (OTF) Medium" FontFamily="Helvetica (OTF)" Name="Helvetica (OTF) Medium" PostScriptName="Helvetica" Status="NotAvailable" FontStyleName="Medium" FontType="OpenTypeCFF" WritingScript="0" FullName="Helvetica Medium" FullNameNative="Helvetica Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="OTF 1.0;PS 003.000;Core 1.0.22" TypekitID="$ID/" />
+		<Font Self="die5FontnHelvetica (OTF) Oblique" FontFamily="Helvetica (OTF)" Name="Helvetica (OTF) Oblique" PostScriptName="Helvetica-Oblique" Status="NotAvailable" FontStyleName="Oblique" FontType="OpenTypeCFF" WritingScript="0" FullName="Helvetica Oblique" FullNameNative="Helvetica Oblique" FontStyleNameNative="Oblique" PlatformName="$ID/" Version="OTF 1.0;PS 003.000;Core 1.0.22" TypekitID="$ID/" />
+		<Font Self="die5FontnHelvetica (OTF) Bold Fractions" FontFamily="Helvetica (OTF)" Name="Helvetica (OTF) Bold Fractions" PostScriptName="Helvetica-FractionBold" Status="Substituted" FontStyleName="Bold Fractions" FontType="OpenTypeCFF" WritingScript="0" FullName="Helvetica Bold Fractions" FullNameNative="Helvetica Bold Fractions" FontStyleNameNative="Bold Fractions" PlatformName="$ID/" Version="OTF 1.0;PS 001.001;Core 1.0.22" TypekitID="$ID/" />
+		<Font Self="die5FontnHelvetica (OTF) Black" FontFamily="Helvetica (OTF)" Name="Helvetica (OTF) Black" PostScriptName="Helvetica-Black" Status="Substituted" FontStyleName="Black" FontType="OpenTypeCFF" WritingScript="0" FullName="Helvetica Black" FullNameNative="Helvetica Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="OTF 1.0;PS 001.003;Core 1.0.22" TypekitID="$ID/" />
+		<Font Self="die5FontnHelvetica (OTF) Black Oblique" FontFamily="Helvetica (OTF)" Name="Helvetica (OTF) Black Oblique" PostScriptName="Helvetica-BlackOblique" Status="Substituted" FontStyleName="Black Oblique" FontType="OpenTypeCFF" WritingScript="0" FullName="Helvetica Black Oblique" FullNameNative="Helvetica Black Oblique" FontStyleNameNative="Black Oblique" PlatformName="$ID/" Version="OTF 1.0;PS 001.003;Core 1.0.22" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="die7" Name="$ID/AkzidenzGroteskBQ-Super" />
+	<FontFamily Self="die9" Name="$ID/AkzidenzGroteskBQ-Medium" />
+	<FontFamily Self="died" Name="$ID/SwiftEF-ExtraBold" />
+	<FontFamily Self="dief" Name="$ID/SwiftEF-RegularItalic" />
+	<FontFamily Self="dif1" Name="$ID/SwiftEF-Regular" />
+	<FontFamily Self="dif5" Name="$ID/AkzidenzGroteskBQ-Regular" />
+	<FontFamily Self="dif7" Name="$ID/MathematicalPi 1" />
+	<FontFamily Self="difa" Name="$ID/AkzidenzGroteskBQ-Bold" />
+	<FontFamily Self="diff" Name="$ID/SwiftEF-Bold" />
+	<FontFamily Self="di109" Name="$ID/AGaramond SemiboldSC" />
+	<FontFamily Self="di69e" Name="$ID/AkzidenzGroteskBQ-Med_sh" />
+	<FontFamily Self="dibf1" Name="$ID/AkzidenzGroteskBQ-Reg_sh" />
+	<FontFamily Self="di298b" Name="$ID/AkzidenzGroteskBQ-Sup_sh" />
+	<FontFamily Self="di6fe6" Name="$ID/AkzidenzGroteskBQ-Bo_sh" />
+	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
+		<CompositeFontEntry Self="ua1" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="ua3" Name="$ID/Kana" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="ぁあぃいぅうぇえぉおかがきぎくぐけげこごさざしじすずせぜそぞただちぢっつづてでとどなにぬねのはばぱひびぴふぶぷへべぺほぼぽまみむめもゃやゅゆょよらりるれろゎわゐゑをんゔゕゖゝゞァアィイゥウェエォオカガキギクグケゲコゴサザシジスズセゼソゾタダチヂッツヅテデトドナニヌネノハバパヒビピフブプヘベペホボポマミムメモャヤュユョヨラリルレロヮワヰヱヲンヴヵヶヷヸヹヺーヽヾ" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="ua4" Name="$ID/Punctuation" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="—―‖‘’“”‥…′″∥、。〈〉《》「」『』【】〔〕〜・！（），．／：；？［］｛｝～" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="ua5" Name="$ID/Symbols" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="¢£§¨¬°±´¶×÷ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩαβγδεζηθικλμνξοπρστυφχψωЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяё‐†‡‰※℃Å←↑→↓⇒⇔∀∂∃∇∈∋−√∝∞∠∧∨∩∪∫∬∴∵∽≒≠≡≦≧≪≫⊂⊃⊆⊇⊥⌒■□▲△▼▽◆◇○◎●◯★☆♀♂♪♭♯〃〆〇〒〓゛゜＃＄％＆＊＋－０１２３４５６７８９＜＝＞＠ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ＼＾＿｀ａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚ｜￠￡￢￣￥" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="ua6" Name="$ID/Alphabetic" FontStyle="$ID/Regular" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters=" !&quot;#$%&amp;&apos;()*+,-./:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ¡¤¥¦©ª«­®¯²³µ·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿıŒœŠšŸŽžƒˆˇ˘˙˚˛˜˝–‚„•‹›⁄€™∆∏∑≈≤≥◊ﬀﬁﬂﬃﬄﬅﬆ" Locked="true" ScaleOption="false" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Minion Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="ua7" Name="$ID/Numbers" FontStyle="$ID/Regular" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="0123456789" Locked="true" ScaleOption="false" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Minion Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+	</CompositeFont>
+	<RootCharacterStyleGroup Self="u77">
+		<CharacterStyle Self="CharacterStyle/GT Zeitung Auszeichnung ExtraBold" Imported="false" SplitDocument="false" EmitCss="true" StyleUniqueId="$ID/" IncludeClass="true" KeyboardShortcut="0 0" Name="GT Zeitung Auszeichnung ExtraBold" FontStyle="Extra Bold" Tracking="25">
+			<Properties>
+				<BasedOn type="object">CharacterStyle/GT Zeitung</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">$ID/SwiftEF-ExtraBold</AppliedFont>
+			</Properties>
+		</CharacterStyle>
+		<CharacterStyle Self="CharacterStyle/GT Zeitung Auszeichnung Kursiv" Imported="false" SplitDocument="false" EmitCss="true" StyleUniqueId="$ID/" IncludeClass="true" KeyboardShortcut="0 0" Name="GT Zeitung Auszeichnung Kursiv" FontStyle="Regular Italic">
+			<Properties>
+				<BasedOn type="object">CharacterStyle/GT Zeitung</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">$ID/SwiftEF-RegularItalic</AppliedFont>
+			</Properties>
+		</CharacterStyle>
+		<CharacterStyle Self="CharacterStyle/GT Zeitung" Imported="false" SplitDocument="false" EmitCss="true" StyleUniqueId="$ID/" IncludeClass="true" KeyboardShortcut="0 0" Name="GT Zeitung" FillColor="Color/Schwarz" FontStyle="Regular" PointSize="8.5" HorizontalScale="100" KerningMethod="$ID/None" Ligatures="false" StrokeWeight="1" Tracking="15" BaselineShift="-0" Capitalization="Normal" StrokeColor="Swatch/None" KerningValue="0" VerticalScale="100" AppliedLanguage="$ID/de_DE_2006" NoBreak="false" Underline="false" OTFFigureStyle="Default" Position="Normal" StrikeThru="false" CharacterAlignment="AlignEmCenter" StrokeTint="-1" FillTint="100" OverprintStroke="false" OverprintFill="false" GradientStrokeAngle="0" GradientFillAngle="0" GradientStrokeLength="-1" GradientFillLength="-1" GradientStrokeStart="0 0" GradientFillStart="0 0" Skew="0" OTFOrdinal="false" OTFFraction="false" OTFDiscretionaryLigature="false" OTFTitling="false" PositionalForm="None" OTFMark="true" OTFLocale="true" OTFSlashedZero="false" OTFStylisticSets="0" OTFHistorical="false" OTFContextualAlternate="true" UnderlineGapOverprint="false" UnderlineGapTint="-1" UnderlineOffset="-9999" UnderlineOverprint="false" UnderlineTint="-1" UnderlineWeight="-9999" StrikeThroughGapOverprint="false" StrikeThroughGapTint="-1" StrikeThroughOffset="-9999" StrikeThroughOverprint="false" StrikeThroughTint="-1" StrikeThroughWeight="-9999" MiterLimit="4" StrokeAlignment="OutsideAlignment" EndJoin="MiterEndJoin" OTFSwash="false" Tsume="0" LeadingAki="-1" TrailingAki="-1" RubyOpenTypePro="true" RubyFontSize="-1" RubyAlignment="RubyJIS" RubyType="PerCharacterRuby" RubyParentSpacing="RubyParent121Aki" RubyXScale="100" RubyYScale="100" RubyXOffset="0" RubyYOffset="0" RubyPosition="AboveRight" RubyAutoAlign="true" RubyParentOverhangAmount="RubyOverhangOneRuby" RubyOverhang="false" RubyAutoScaling="false" RubyParentScalingPercent="66" RubyTint="-1" RubyOverprintFill="Auto" RubyStrokeTint="-1" RubyOverprintStroke="Auto" RubyWeight="-1" KentenKind="None" KentenFontSize="-1" KentenXScale="100" KentenYScale="100" KentenPlacement="0" KentenAlignment="AlignKentenCenter" KentenPosition="AboveRight" KentenCustomCharacter="" KentenCharacterSet="CharacterInput" KentenTint="-1" KentenOverprintFill="Auto" KentenStrokeTint="-1" KentenOverprintStroke="Auto" KentenWeight="-1" Tatechuyoko="false" TatechuyokoXOffset="0" TatechuyokoYOffset="0" Jidori="0" CharacterRotation="0" ShataiMagnification="0" ShataiDegreeAngle="4500" ShataiAdjustTsume="true" ShataiAdjustRotation="false" Warichu="false" WarichuLines="2" WarichuSize="50" WarichuLineSpacing="0" WarichuAlignment="Auto" WarichuCharsBeforeBreak="2" WarichuCharsAfterBreak="2" OTFHVKana="false" OTFProportionalMetrics="false" OTFRomanItalics="false" ScaleAffectsLineHeight="false" CjkGridTracking="false" GlyphForm="None" RubyAutoTcyDigits="0" RubyAutoTcyIncludeRoman="false" RubyAutoTcyAutoScale="true" DigitsType="DefaultDigits" Kashidas="DefaultKashidas" DiacriticPosition="OpentypePositionFromBaseline" CharacterDirection="DefaultDirection" XOffsetDiacritic="0" YOffsetDiacritic="0" OTFOverlapSwash="false" OTFStylisticAlternate="false" OTFJustificationAlternate="false" OTFStretchedAlternate="false">
+			<Properties>
+				<BasedOn type="string">$ID/[No character style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<Leading type="enumeration">Auto</Leading>
+				<AppliedFont type="string">$ID/SwiftEF-Regular</AppliedFont>
+				<UnderlineColor type="string">Text Color</UnderlineColor>
+				<UnderlineGapColor type="object">Swatch/None</UnderlineGapColor>
+				<UnderlineType type="object">StrokeStyle/$ID/Solid</UnderlineType>
+				<StrikeThroughColor type="string">Text Color</StrikeThroughColor>
+				<StrikeThroughGapColor type="object">Swatch/None</StrikeThroughGapColor>
+				<StrikeThroughType type="object">StrokeStyle/$ID/Solid</StrikeThroughType>
+				<RubyFont type="string">$ID/</RubyFont>
+				<RubyFontStyle type="enumeration">Nothing</RubyFontStyle>
+				<RubyFill type="string">Text Color</RubyFill>
+				<RubyStroke type="string">Text Color</RubyStroke>
+				<KentenFont type="string">$ID/</KentenFont>
+				<KentenFontStyle type="enumeration">Nothing</KentenFontStyle>
+				<KentenFillColor type="string">Text Color</KentenFillColor>
+				<KentenStrokeColor type="string">Text Color</KentenStrokeColor>
+			</Properties>
+		</CharacterStyle>
+	</RootCharacterStyleGroup>
+	<RootParagraphStyleGroup Self="u76">
+		<ParagraphStyle Self="ParagraphStyle/GT Zeitung Auszeichnung" Name="GT Zeitung Auszeichnung" Imported="false" NextStyle="ParagraphStyle/GT Zeitung Auszeichnung" SplitDocument="false" EmitCss="true" StyleUniqueId="$ID/" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Regular Italic">
+			<Properties>
+				<BasedOn type="object">ParagraphStyle/GT Zeitung</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">$ID/SwiftEF-RegularItalic</AppliedFont>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/GT Zeitung" Name="GT Zeitung" Imported="false" NextStyle="ParagraphStyle/GT Zeitung" SplitDocument="false" EmitCss="true" StyleUniqueId="$ID/" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="8.5" Tracking="15">
+			<Properties>
+				<BasedOn type="object">ParagraphStyle/GT</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">$ID/SwiftEF-Regular</AppliedFont>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/GT" Name="GT" Imported="false" NextStyle="ParagraphStyle/GT" SplitDocument="false" EmitCss="true" StyleUniqueId="$ID/" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FillColor="Color/Schwarz" FontStyle="Medium" PointSize="9" Ligatures="false" Tracking="20" BaselineShift="-0" HyphenationZone="0" MaximumWordSpacing="150" MinimumWordSpacing="75" FillTint="100" SingleWordJustification="LeftAlign" Justification="LeftJustified" GridAlignment="AlignBaseline">
+			<Properties>
+				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<Leading type="unit">13.039</Leading>
+				<AppliedFont type="string">$ID/AkzidenzGroteskBQ-Medium</AppliedFont>
+			</Properties>
+		</ParagraphStyle>
+	</RootParagraphStyleGroup>
+	<TinDocumentDataObject>
+		<Properties>
+			<GaijiRefMaps><![CDATA[/////wAAAAAAAAAA]]></GaijiRefMaps>
+		</Properties>
+	</TinDocumentDataObject>
+	<CrossReferenceFormat Self="u96" Name="Vollständiger Absatz und Seitenzahl" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u96BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="„" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u96BuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u96BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="“ auf Seite " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u96BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u97" Name="Vollständiger Absatz" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u97BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="„" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u97BuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u97BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="“" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u98" Name="Absatztext und Seitenzahl" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u98BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="„" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u98BuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u98BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="“ auf Seite " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u98BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u99" Name="Absatztext" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u99BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="„" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u99BuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u99BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="“" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u9a" Name="Absatznr. und Seitenzahl" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u9aBuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9aBuildingBlock1" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText=" auf Seite " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9aBuildingBlock2" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u9b" Name="Absatznr." AppliedCharacterStyle="n">
+		<BuildingBlock Self="u9bBuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u9c" Name="Name des Textankers und Seitenzahl" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u9cBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="„" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9cBuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9cBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="“ auf Seite " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9cBuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u9d" Name="Name des Textankers" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u9dBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="„" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9dBuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9dBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="“" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u9e" Name="Seitenzahl" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u9eBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="Seite " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9eBuildingBlock1" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<Story Self="u1146" UserText="true" IsEndnoteStory="false" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="export-0032" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<MetadataPacketPreference>
+			<Properties>
+				<Contents><![CDATA[<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c143 79.161424, 2017/09/22-11:52:47        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:xmpGImg="http://ns.adobe.com/xap/1.0/g/img/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/"
+            xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">
+         <xmp:CreateDate>2018-09-11T18:24:30+02:00</xmp:CreateDate>
+         <xmp:MetadataDate>2018-09-11T18:24:30+02:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2018-09-11T18:24:30+02:00</xmp:ModifyDate>
+         <xmp:CreatorTool>Adobe InDesign CC 13.1 (Macintosh)</xmp:CreatorTool>
+         <xmp:Thumbnails>
+            <rdf:Alt>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpGImg:format>JPEG</xmpGImg:format>
+                  <xmpGImg:width>256</xmpGImg:width>
+                  <xmpGImg:height>256</xmpGImg:height>
+                  <xmpGImg:image>/9j/4AAQSkZJRgABAgEASABIAAD/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAASAAAAAEA&#xA;AQBIAAAAAQAB/+4AE0Fkb2JlAGQAAAAAAQUAAklE/9sAhAAKBwcHBwcKBwcKDgkJCQ4RDAsLDBEU&#xA;EBAQEBAUEQ8RERERDxERFxoaGhcRHyEhISEfKy0tLSsyMjIyMjIyMjIyAQsJCQ4MDh8XFx8rIx0j&#xA;KzIrKysrMjIyMjIyMjIyMjIyMjIyMjI+Pj4+PjJAQEBAQEBAQEBAQEBAQEBAQEBAQED/wAARCAD/&#xA;AOkDAREAAhEBAxEB/8QBogAAAAcBAQEBAQAAAAAAAAAABAUDAgYBAAcICQoLAQACAgMBAQEBAQAA&#xA;AAAAAAABAAIDBAUGBwgJCgsQAAIBAwMCBAIGBwMEAgYCcwECAxEEAAUhEjFBUQYTYSJxgRQykaEH&#xA;FbFCI8FS0eEzFmLwJHKC8SVDNFOSorJjc8I1RCeTo7M2F1RkdMPS4ggmgwkKGBmElEVGpLRW01Uo&#xA;GvLj88TU5PRldYWVpbXF1eX1ZnaGlqa2xtbm9jdHV2d3h5ent8fX5/c4SFhoeIiYqLjI2Oj4KTlJ&#xA;WWl5iZmpucnZ6fkqOkpaanqKmqq6ytrq+hEAAgIBAgMFBQQFBgQIAwNtAQACEQMEIRIxQQVRE2Ei&#xA;BnGBkTKhsfAUwdHhI0IVUmJy8TMkNEOCFpJTJaJjssIHc9I14kSDF1STCAkKGBkmNkUaJ2R0VTfy&#xA;o7PDKCnT4/OElKS0xNTk9GV1hZWltcXV5fVGVmZ2hpamtsbW5vZHV2d3h5ent8fX5/c4SFhoeIiY&#xA;qLjI2Oj4OUlZaXmJmam5ydnp+So6SlpqeoqaqrrK2ur6/9oADAMBAAIRAxEAPwCcP5s8wKzAaDKa&#xA;VoavvQ0/33gts4R3FZ/i7zF/1L8v3v8A9U8bXhHcXf4u8xf9S/L97/8AVPG14R3F3+LvMX/Uvy/e&#xA;/wD1TxteEdxd/i7zF/1L8v3v/wBU8bXhHcXf4u8xf9S/L97/APVPG14R3F3+LvMX/Uvy/e//AFTx&#xA;teEdxd/i7zF/1L8v3v8A9U8bXhHcXf4u8xf9S/L97/8AVPG14R3Fl6MWRWYcSQCR4E9sLWxObzX5&#xA;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&#xA;rvF5x5tx1KxAqaAsOn/IrHZPrW+l5z/6udj/AMEP+qWOy+t3pec/+rnY/wDBD/qljsvrd6XnP/q5&#xA;2P8AwQ/6pY7L63el5z/6udj/AMEP+qWOy+t3pec/+rnY/wDBD/qljsvrd6XnP/q52P8AwQ/6pY7L&#xA;63el5z/6udj/AMEP+qWOy+t3pec/+rnY/wDBD/qljsvrZxHy9NeZBagqR0JpkmgsLni84etJ6epW&#xA;KpybiCwqBXav7rI7N/rU/S85/wDVzsf+CH/VLHZfW70vOf8A1c7H/gh/1Sx2X1u9Lzn/ANXOx/4I&#xA;f9Usdl9bvS85/wDVzsf+CH/VLHZfW70vOf8A1c7H/gh/1Sx2X1u9Lzn/ANXOx/4If9Usdl9bvS85&#xA;/wDVzsf+CH/VLHZfW70vOf8A1c7H/gh/1Sx2X1s2g5+hH6pDPwXmy9C1NyMk0nmxG+j82G9uDbaj&#xA;ZRwmV/SR2HJU5HiG/dncDImm6PFSH9Lzn/1c7H/gh/1Sx2X1u9Lzn/1c7H/gh/1Sx2X1u9Lzn/1c&#xA;7H/gh/1Sx2X1u9Lzn/1c7H/gh/1Sx2X1u9Lzn/1c7H/gh/1Sx2X1u9Lzn/1c7H/gh/1Sx2X1u9Lz&#xA;n/1c7H/gh/1Sx2X1u9Lzn/1c7H/gh/1Sx2X1o30/NH/LfZ/8EP8Aqniu7GpZfJ3qPy02+J5GpDd6&#xA;/wCvjux9Hd+Pms9Xyb/1bb7/AIL/AK+Y7r6O78fN3q+Tf+rbff8ABf8AXzHdfR3fj5u9Xyb/ANW2&#xA;+/4L/r5juvo7vx83er5N/wCrbff8F/18x3X0d34+bvV8m/8AVtvv+C/6+Y7r6O78fN3q+Tf+rbff&#xA;8F/18x3X0d34+bvV8m/9W2+/4L/r5juvo7vx83er5N/6tt9/wX/XzHdfR3fj5vUoePpJxBC8RQHr&#xA;SmSai8yupfKH1mb1NOvmf1G5ENsTU1p8eR3bfR3fj5qXq+Tf+rbff8F/18x3X0d34+bvV8m/9W2+&#xA;/wCC/wCvmO6+ju/Hzd6vk3/q233/AAX/AF8x3X0d34+bvV8m/wDVtvv+C/6+Y7r6O78fN3q+Tf8A&#xA;q233/Bf9fMd19Hd+Pm71fJv/AFbb7/gv+vmO6+ju/Hzd6vk3/q233/Bf9fMd19Hd+Pm71fJv/Vtv&#xA;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</xmpGImg:image>
+               </rdf:li>
+            </rdf:Alt>
+         </xmp:Thumbnails>
+         <xmpMM:InstanceID>xmp.iid:b2eccb18-06d1-4170-b9e3-209a2363ac8f</xmpMM:InstanceID>
+         <xmpMM:DocumentID>xmp.did:eadf4f09-a687-4557-9995-4383e63db747</xmpMM:DocumentID>
+         <xmpMM:OriginalDocumentID>xmp.did:eadf4f09-a687-4557-9995-4383e63db747</xmpMM:OriginalDocumentID>
+         <xmpMM:History>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>created</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:eadf4f09-a687-4557-9995-4383e63db747</stEvt:instanceID>
+                  <stEvt:when>2018-09-11T18:24:30+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign CC 13.1 (Macintosh)</stEvt:softwareAgent>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:b2eccb18-06d1-4170-b9e3-209a2363ac8f</stEvt:instanceID>
+                  <stEvt:when>2018-09-11T18:24:30+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign CC 13.1 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpMM:History>
+         <dc:format>application/x-indesign</dc:format>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">export-0032</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <xmpTPg:Colorants>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:swatchName>Black</xmpG:swatchName>
+                  <xmpG:mode>CMYK</xmpG:mode>
+                  <xmpG:type>Process</xmpG:type>
+                  <xmpG:cyan>0</xmpG:cyan>
+                  <xmpG:magenta>0</xmpG:magenta>
+                  <xmpG:yellow>0</xmpG:yellow>
+                  <xmpG:black>100</xmpG:black>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:swatchName>Paper</xmpG:swatchName>
+                  <xmpG:mode>CMYK</xmpG:mode>
+                  <xmpG:type>Process</xmpG:type>
+                  <xmpG:cyan>0</xmpG:cyan>
+                  <xmpG:magenta>0</xmpG:magenta>
+                  <xmpG:yellow>0</xmpG:yellow>
+                  <xmpG:black>0</xmpG:black>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:swatchName>Registration</xmpG:swatchName>
+                  <xmpG:mode>CMYK</xmpG:mode>
+                  <xmpG:type>Process</xmpG:type>
+                  <xmpG:cyan>100</xmpG:cyan>
+                  <xmpG:magenta>100</xmpG:magenta>
+                  <xmpG:yellow>100</xmpG:yellow>
+                  <xmpG:black>100</xmpG:black>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpTPg:Colorants>
+         <xmpTPg:Fonts>
+            <rdf:Bag>
+               <rdf:li rdf:parseType="Resource"/>
+            </rdf:Bag>
+         </xmpTPg:Fonts>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+<?xpacket end="r"?>]]></Contents>
+			</Properties>
+		</MetadataPacketPreference>
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/GT Zeitung Auszeichnung">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>A</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Z</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>:</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung Kursiv">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content> Vor einem Monat wurde in Thun der Dienstverweigerer Martin Schwander zu sieben Monaten Gefängnis verknurrt. Vor zwei Wochen in Zofingen Georg Müller zu 10 Monaten. Jetzt hat man Sie  in Luzern zu 11 Monaten verurteilt – dem bisher höchs­ten Urteil gegen Dienstverweigerer. Herr Wehren – lohnt sich Dienstverweigerun</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung Kursiv" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>g</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung Kursiv">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>?</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/GT Zeitung">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Wehre</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>n</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>:</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content> Nein.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/GT Zeitung Auszeichnung">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>A</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Z</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>:</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung Kursiv">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content> Sie bereuen Ihre Verweigerun</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung Kursiv" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>g</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung Kursiv">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>?</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/GT Zeitung">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Wehre</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>n</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>:</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content> Nein. Aber ich rate niemandem mehr, den Militärdienst zu verweigern. In elf Monaten kann ich auf dem Platz Biel, etwa in Zusammenarbeit mit Lehrlingen, einen viel bedeutenderen Beitrag zum Klassenkampf leisten, als ich dies mit Gefangenen könnte. Dazu kommt, dass ein politischer Dienstverweigerungsprozess heute wohl kaum mehr </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung" Tracking="10">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>eine bewusstseinsbildende Wirkung hat, weil</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content> der Markt sozusagen übersättigt ist.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/GT Zeitung Auszeichnung">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>A</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Z</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>:</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung Kursiv">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content> Dennoc</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung Kursiv" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>h</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung Kursiv">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>: vor dem Gericht haben Sie der Militärjustiz den Rücken zugekehrt und den Zuschauern als Schlusswort einen Text verlesen, aus dem ich zitier</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung Kursiv" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>e</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung Kursiv">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>: </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung Kursiv" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>«</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung Kursiv">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Ich wende mich gegen die Dogmatiker, die einer politischen Dienstverweigerung jeden Wert absprechen. Es ist schon so, dass die bürgerliche Presse immer schlechter über die Prozesse informiert. Trotzdem darf ich noch auf eine gewisse bewusstseinsbildende Wirkung </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung Kursiv" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>‹</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung Kursiv">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>meine</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung Kursiv" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>s</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung Kursiv">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>› Prozesses hoffen</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung Kursiv" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung Kursiv">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>»</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/GT Zeitung">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Wehre</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>n</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>:</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content> Aber natürlic</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>h</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>: jeden Wert möchte ich der politischen Dienstverweigerung auch nicht absprechen. Es ist ja so, dass ich diese Entscheidung bereits vor einem Jahr getroffen habe. Damals war die politische Situation eine andere. Damals war das günstigste Klima für Dienstverweigerungen, die Diskussion in der Öffentlichkeit begann, weil sich die Presse noch um die Prozesse kümmerte.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/GT Zeitung Auszeichnung">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>A</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Z</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>:</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung Kursiv">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content> Die Strafen waren noch nicht so hoch.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/GT Zeitung">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Wehre</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>n</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>:</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content> Was nur beweist, dass die Mili­tärjustiz die Dienstverweigerer noch nicht fürch­tete. Die Tatsache, dass ich zu elf Monaten verurteilt wurde, wertet die politische Schlagkraft meiner Haltung ja nur auf.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/GT Zeitung Auszeichnung">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>A</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Z</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>:</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung Kursiv">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content> Die Eskalation der Strafmasse steht aber doch in eindeutigem Widerspruch etwa zum Abbau autoritärer Formen des Dienstbetriebs, wie sie nächs­tes Jahr angekündigt sind.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/GT Zeitung">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Wehre</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>n</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>:</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content> Im Gegentei</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>l</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>: die Taktik ist sehr konsequent. Auf der einen Seite Abschre­ckung potenzieller Militärdienstverweigerer durch unmenschliche Strafen, auf der anderen Seite Zückerchen für die Jugend, die seit einigen Jahren begonnen hat, aus dem Unsinn militärischer Formen auf den Unsinn des Militärs überhaupt zu schliessen.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/GT Zeitung Auszeichnung">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>A</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Z</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>:</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung Kursiv">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content> Sind Sie Pazifis</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung Kursiv" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>t</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung Kursiv">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>?</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/GT Zeitung">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold" KerningValue="-200">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content> </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Wehre</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>n</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>:</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content> </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung" Tracking="10">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>In einer sozialistischen Gesellschaft</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content> wäre ich es, hier und heute nicht. In meinem Schlusswort habe ich dazu gesag</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>t</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>: </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>«</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Wenn wir wahre Pazifisten sein wollen, müssen wir wahre Sozialisten sei</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>n</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>; dürfen wir nicht länger den Krieg bekämpfen, sondern müssen seine Ursachen erkunde</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>n</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>; müssen wir uns </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung" Tracking="14">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>entschlossen gegen jeden Imperialismus, den </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>offenen US- und Nato-Imperialismus </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>(</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Viet­nam usw</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>) und den hinterhältigen UdSSR-­Imperialismus </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>(</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Tschechoslowakei usw</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>) wende</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>n</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>; müssen wir, so gut wir können, alle </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung" Tracking="5">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>revolutionären Befreiungsbewegungen in den</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content> betroffenen Ländern </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>(</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Afrika, Lateinamerika, Asie</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>n</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>) unterstütze</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>n</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>; müssen wir zeigen, dass die einzige mögliche Entwicklungshilfe die Unterstützung dieser Bewegungen ist, und den wahren Zweck der ‹Entwicklungshilfe› der herrschenden Klasse entlarve</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>n</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>: Entwicklungshilfe für die herrschende Klasse</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>» Es liegt mir sehr viel daran, den jungen Pazifis­ten sagen zu können, dass sogar eine sehr ­politische Dienstverweigerung wenn auch nicht wertlos, so doch nur eine recht persönliche Stellungnahme zu einem Nebenwiderspruch des kapitalistischen Systems ist und sein kan</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>n</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>; dass sie in keinem Fall uns vom Kampf gegen den Hauptwiderspruch dispensieren kann, der sich auch heute noch vor allem in den Betrieben abspielen muss. Dort müssen wir den Lehrlingen und Arbeitern helfen, sich zu organisieren, um vereint den Kampf gegen den </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>«</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Arbeitsfriede</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>n</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>» aufnehmen zu können, der von dem deutschen Reporter Günter Wallraff sehr richtig als Betrug bezeichnet wurde, weil sich darin der Klassenkampf von oben nach unten normal, der revolutionäre Klassenkampf von unten nach oben aber nicht abspielen kann.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/GT Zeitung Auszeichnung">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>A</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Z</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>:</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung Kursiv">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content> Elf Monate Gefängnis, das entspricht ziemlich genau der Zeit, die ein Soldat im Militär abzusitzen hat </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung Kursiv" Tracking="150">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>...</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung Kursiv">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/GT Zeitung">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Wehre</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>n</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>:</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content> </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung" Tracking="150">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>...</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content> was ja die Rechnung des Auditors war, als er elf Monate fordert</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>e</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>: 330 Dienst­tage leistet der Wehrmann bis zu seiner Ausmusterung, sagte er. Ich war der Ers­te, der nach der Gleichung bestraft wurd</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>e</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>:  1 Dienst</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung" Tracking="10">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>tag = 1 Tag Gefängnis. Darauf werde ich aller</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>dings zurückgreifen, wenn die von mir die Militärpflichtersatzsteuer verlangen wollen, und sagen, dass ich meine Militärpflicht in der Kiste voll abverdient habe </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung" Tracking="150">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>...</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/GT Zeitung Auszeichnung">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>A</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Z</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>:</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung Kursiv">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content> Haben Sie nicht Angst, das gleiche Schicksal wie Reverdin zu erleide</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung Kursiv" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>n</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung Kursiv">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>?</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/GT Zeitung">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Wehre</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>n</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>: </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung" Tracking="5">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Nein, nein. Ich kenne Reverdin recht</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content> gut. Er war immer sehr eigensinnig und originell. Seinen Dienst verweigerte er so, dass er im Blauhelm der Uno-Truppe auf ein Tramhäuschen am Basler Bahnhof stieg und mit dem Megafon zu seinen einrückenden Kameraden sprach. An seinem Prozess verteidigte er sich hervorragend und wurde meines Wissens zu nur drei Monaten verurteilt, die er in Witzwil absass. Dort wurde er gründlich kaputt gemacht, so dass er schliesslich als geis­teskrank in die Waldau interniert wurde.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/GT Zeitung Auszeichnung">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>A</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Z</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>:</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung Kursiv">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content> Was wollen Sie im Gefängnis tu</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung Kursiv" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>n</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung Kursiv">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>?</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/GT Zeitung">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Wehre</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>n</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>:</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content> Ersten</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>s</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>: Der Ire Brendan Behan war Literat und hat in der Kiste literarische Arbeit geleistet. Ich bin nicht Literat, aber Sozialist – immerhin mache ich mir keine Illusionen, habe ich keine hochfliegenden Pläne. Dagegen werde ich den ganzen Irrsinn des Strafvollzugs, der von sich selbst behauptet, er wirke erzieherisch und gliedere die Delinquenten wieder in die Gesellschaft ein, an mir selbst erleben können und sehen, was wirklich is</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>t</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>: dass dort Menschen ausgebeutet und unterdrückt werden wie nirgendwo sonst und dass die herrschende Klasse alles daran setzt zu erreichen, dass diese Menschen nach Verbüssung ihrer Strafe wiederum kriminell werden. Wenigstens nach dem Abhocken meiner eigenen Strafe kann ich zur Bewusstmachung dieser Zustände in der Öffentlichkeit beitragen. Das heisst schliesslich, dass ich mich auch im Gefängnis noch innerhalb des kapitalistischen Systems befinde, dass ich an dieser Stelle die Funktionsweise seiner Ausbeutungsmechanismen sehr leicht in der Praxis analsysieren und diese ­Erkenntnisse dort anwenden kann, wo die Zustände verschleiert sind.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/GT Zeitung Auszeichnung">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>A</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Z</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>:</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung Kursiv">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content> In den ersten fünf Monaten dieses Jahres hat kein einziges Urteil die Grenze von 6 Monaten überschritten. Seit dem letzten Monat treten mit schöner Regelmässigkeit plötzlich Urteile von 7, 8, 9, 10 bis zu Ihren 11 Monaten auf. Offensichtlich werden die marxistisch argumentierenden Verweigerer dabei am härtesten am Wickel genomme</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung Kursiv" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>n</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung Kursiv">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>; aber auch dem Pazifisten Tschannen hat man in Luzern bereits 9 Monate angehängt. Wie erklären Sie sich die Eskalation der Strafmass</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung Kursiv" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>e</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung Kursiv">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>?</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/GT Zeitung">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Wehre</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>n</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>:</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content> Die Antwort liegt in der Tatsache, dass die militärische Justiz noch offener als die zivile eine Klassenjustiz ist. Wenn die herrschende Klasse ihre Stellung – in diesem Fall durch die wachsende Zahl und Politisierung der Dienstverweigerungen – gefährdet sieht, geht sie von einer relativ repressiven Toleranz zu offener Repression über. Wir haben dann zu entscheiden, ob sich das angewandte Kampfmittel immer noch lohnt.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/GT Zeitung Auszeichnung">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>A</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Z</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>:</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung Kursiv">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content> Wie stehen Sie zur Initiative der Münchenstei</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung Kursiv" Tracking="5">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>ner Gymnasiallehrer, die einen Zivildienst einführen</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung Kursiv">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content> wolle</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung Kursiv" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>n</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung Kursiv">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>?</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/GT Zeitung">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Wehre</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>n</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>:</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content> Skeptisch. Diese Initiative ist viel zu rasch zustande gekommen. Sie hält ers­tens fest, dass die Armee immer noch an ­erster Stelle stehe, und sieht zweitens einen Zivildienst nur auf nationaler Ebene vor. ­Deshalb stehen ihr sogar die Pazifisten geteilt gegenüber – sie wird keine Chance haben durchzukommen, nicht nur deshalb, weil kaum je eine fortschrittliche Initiative in ­dieser Art </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>«</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Demokrati</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>e</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>» eine Chance hatte </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung" Tracking="5">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>durchzukommen, sondern auch deshalb, weil </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>sie eben nicht mal richtig fortschrittlich ist.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/GT Zeitung Auszeichnung">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>A</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Z</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>:</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung Kursiv">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content> – ein Zivildienst für Drückeberger, wie der Volksmund sag</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung Kursiv" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>t</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung Kursiv">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>?</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/GT Zeitung">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold" KerningValue="-210">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content> </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Wehre</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>n</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>:</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content> Ich war immer der Auffassung, dass ein Dienstverweigerer nicht nach elitärer Privilegierung seiner Person, sondern nach revolutionärer Veränderung seiner Umwelt zu streben habe. Ein Zivildienst im nationalen Rahmen, der dann doch in die totale Landesverteidigung eingebaut werden könnte, würde aber meiner Ansicht nach eine solche Privilegierung der Verweigerer bedeuten. Im Übrigen mag ich die Zivildienstorganisation im Besonderen nicht. Ich habe in Frankreich oft und lange Randgruppenarbeit geleistet mit Zigeunern und Arabern. Als die Gruppe der Ursache der Unterprivilegierung dieser </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung" Tracking="5">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Menschen in langjähriger Arbeit immer näher kam,</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content> immer besser arbeitete, wurde sie von der internationalen Zivildienstorganisation ausgeschlossen, die in Frankreich vom Staat unterstützt wird – sie hatte sich nicht mit der </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung" Tracking="5">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>traditionellen Zivildienst-Flickarbeit begnügt,</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content> sondern revolutionäre Aufbauarbeit geleistet </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung" Tracking="150">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>...</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content> Deshalb glaube ich, dass wir nicht von  den Herrschenden einen Zivildienst verlangen sollen, der sich ja gegen sie selbst richten müsste, sondern uns selbst gegen die Herrschenden organisieren müssen.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/GT Zeitung Auszeichnung">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>A</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Z</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>:</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung Kursiv">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content> Jürg Wehren, Sie verschwinden jetzt bald für 11 Monate aus Bie</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung Kursiv" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>l</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung Kursiv">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>; das autonome Jugendzentrum, an dessen Verwirklichung Sie massgeblich beteiligt sind, muss ohne Sie fertig gestellt werden – was nachhe</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung Kursiv" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>r</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung Kursiv">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>?</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/GT Zeitung">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Wehre</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>n</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung ExtraBold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>:</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content> Ich werde mein Leben noch für lange Zeit in den Fabriken verdienen müssen und dabei mit den Arbeitern versuchen, unsere Situation bewusst zu erleben und die Konsequenzen daraus zu ziehen. Daneben werde ich im Jugendzentrum mit den Lehrlingen zusammenarbeiten. Dazu habe ich verschiedene Projekte für unsere Arbeit mit Fremdarbeitern und Arbeiterkindern. Mein Problem ist nicht mangelnde Arbeit, sondern die Frage, wie wir überhaupt noch werden ­arbeiten können, wenn sich die Repression gegen uns dauernd verschärft.</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+	<ColorGroup Self="ColorGroup/[Root Color Group]" Name="[Root Color Group]" IsRootColorGroup="true">
+		<ColorGroupSwatch Self="u9982ColorGroupSwatchc" SwatchItemRef="Color/Schwarz" />
+		<ColorGroupSwatch Self="u9982ColorGroupSwatch0" SwatchItemRef="Swatch/None" />
+	</ColorGroup>
+</Document>
