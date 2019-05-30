@@ -1,0 +1,1420 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?aid style="50" type="snippet" readerVersion="6.0" featureSet="257" product="13.1(76)" ?>
+<?aid SnippetType="InCopyInterchange"?>
+<Document DOMVersion="13.1" Self="d">
+	<Color Self="Color/titelfarbe" Model="Process" Space="CMYK" ColorValue="100 60 0 0" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="titelfarbe" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u9982ColorGroupSwatchd" />
+	<Color Self="Color/Schwarz" Model="Process" Space="CMYK" ColorValue="0 0 0 100" ColorOverride="Normal" AlternateSpace="NoAlternateColor" AlternateColorValue="" Name="Schwarz" ColorEditable="true" ColorRemovable="true" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u9982ColorGroupSwatchc" />
+	<Ink Self="Ink/$ID/Process Cyan" Name="$ID/Process Cyan" Angle="75" ConvertToProcess="false" Frequency="70" NeutralDensity="0.61" PrintInk="true" TrapOrder="1" InkType="Normal" />
+	<Ink Self="Ink/$ID/Process Magenta" Name="$ID/Process Magenta" Angle="15" ConvertToProcess="false" Frequency="70" NeutralDensity="0.76" PrintInk="true" TrapOrder="2" InkType="Normal" />
+	<Ink Self="Ink/$ID/Process Yellow" Name="$ID/Process Yellow" Angle="0" ConvertToProcess="false" Frequency="70" NeutralDensity="0.16" PrintInk="true" TrapOrder="3" InkType="Normal" />
+	<Ink Self="Ink/$ID/Process Black" Name="$ID/Process Black" Angle="45" ConvertToProcess="false" Frequency="70" NeutralDensity="1.7" PrintInk="true" TrapOrder="4" InkType="Normal" />
+	<Ink Self="Ink/Passkreuze" Name="Passkreuze" Angle="45" ConvertToProcess="false" Frequency="70" NeutralDensity="2.743244528235227" PrintInk="true" TrapOrder="5" InkType="Normal" />
+	<Swatch Self="Swatch/None" Name="None" ColorEditable="false" ColorRemovable="false" Visible="true" SwatchCreatorID="7937" SwatchColorGroupReference="u9982ColorGroupSwatch0" />
+	<StrokeStyle Self="StrokeStyle/$ID/Solid" Name="$ID/Solid" />
+	<FontFamily Self="di3e" Name="Minion Pro">
+		<Font Self="di3eFontnMinion Pro Bold Cond" FontFamily="Minion Pro" Name="Minion Pro Bold Cond" PostScriptName="MinionPro-BoldCn" Status="Substituted" FontStyleName="Bold Cond" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Cond" FullNameNative="Minion Pro Bold Cond" FontStyleNameNative="Bold Cond" PlatformName="$ID/" Version="Version 2.108;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
+		<Font Self="di3eFontnMinion Pro Bold Cond Italic" FontFamily="Minion Pro" Name="Minion Pro Bold Cond Italic" PostScriptName="MinionPro-BoldCnIt" Status="Substituted" FontStyleName="Bold Cond Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Cond Italic" FullNameNative="Minion Pro Bold Cond Italic" FontStyleNameNative="Bold Cond Italic" PlatformName="$ID/" Version="Version 2.108;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
+		<Font Self="di3eFontnMinion Pro Regular" FontFamily="Minion Pro" Name="Minion Pro Regular" PostScriptName="MinionPro-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro" FullNameNative="Minion Pro" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900" TypekitID="$ID/" />
+		<Font Self="di3eFontnMinion Pro Italic" FontFamily="Minion Pro" Name="Minion Pro Italic" PostScriptName="MinionPro-It" Status="Substituted" FontStyleName="Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Italic" FullNameNative="Minion Pro Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 2.115;PS 2.000;hotconv 1.0.78;makeotf.lib2.5.61930" TypekitID="$ID/" />
+		<Font Self="di3eFontnMinion Pro Medium" FontFamily="Minion Pro" Name="Minion Pro Medium" PostScriptName="MinionPro-Medium" Status="Substituted" FontStyleName="Medium" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Medium" FullNameNative="Minion Pro Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="Version 2.115;PS 2.000;hotconv 1.0.78;makeotf.lib2.5.61930" TypekitID="$ID/" />
+		<Font Self="di3eFontnMinion Pro Medium Italic" FontFamily="Minion Pro" Name="Minion Pro Medium Italic" PostScriptName="MinionPro-MediumIt" Status="Substituted" FontStyleName="Medium Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Medium Italic" FullNameNative="Minion Pro Medium Italic" FontStyleNameNative="Medium Italic" PlatformName="$ID/" Version="Version 2.108;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
+		<Font Self="di3eFontnMinion Pro Semibold" FontFamily="Minion Pro" Name="Minion Pro Semibold" PostScriptName="MinionPro-Semibold" Status="Substituted" FontStyleName="Semibold" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Semibold" FullNameNative="Minion Pro Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 2.108;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
+		<Font Self="di3eFontnMinion Pro Semibold Italic" FontFamily="Minion Pro" Name="Minion Pro Semibold Italic" PostScriptName="MinionPro-SemiboldIt" Status="Substituted" FontStyleName="Semibold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Semibold Italic" FullNameNative="Minion Pro Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 2.108;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
+		<Font Self="di3eFontnMinion Pro Bold" FontFamily="Minion Pro" Name="Minion Pro Bold" PostScriptName="MinionPro-Bold" Status="Substituted" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold" FullNameNative="Minion Pro Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 2.068;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895" TypekitID="$ID/" />
+		<Font Self="di3eFontnMinion Pro Bold Italic" FontFamily="Minion Pro" Name="Minion Pro Bold Italic" PostScriptName="MinionPro-BoldIt" Status="Substituted" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Minion Pro Bold Italic" FullNameNative="Minion Pro Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 2.108;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="di95" Name="Myriad Pro">
+		<Font Self="di95FontnMyriad Pro Condensed" FontFamily="Myriad Pro" Name="Myriad Pro Condensed" PostScriptName="MyriadPro-Cond" Status="Substituted" FontStyleName="Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Condensed" FullNameNative="Myriad Pro Condensed" FontStyleNameNative="Condensed" PlatformName="$ID/" Version="Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
+		<Font Self="di95FontnMyriad Pro Condensed Italic" FontFamily="Myriad Pro" Name="Myriad Pro Condensed Italic" PostScriptName="MyriadPro-CondIt" Status="Substituted" FontStyleName="Condensed Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Condensed Italic" FullNameNative="Myriad Pro Condensed Italic" FontStyleNameNative="Condensed Italic" PlatformName="$ID/" Version="Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
+		<Font Self="di95FontnMyriad Pro Bold Condensed" FontFamily="Myriad Pro" Name="Myriad Pro Bold Condensed" PostScriptName="MyriadPro-BoldCond" Status="Substituted" FontStyleName="Bold Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold Condensed" FullNameNative="Myriad Pro Bold Condensed" FontStyleNameNative="Bold Condensed" PlatformName="$ID/" Version="Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
+		<Font Self="di95FontnMyriad Pro Bold Condensed Italic" FontFamily="Myriad Pro" Name="Myriad Pro Bold Condensed Italic" PostScriptName="MyriadPro-BoldCondIt" Status="Substituted" FontStyleName="Bold Condensed Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold Condensed Italic" FullNameNative="Myriad Pro Bold Condensed Italic" FontStyleNameNative="Bold Condensed Italic" PlatformName="$ID/" Version="Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
+		<Font Self="di95FontnMyriad Pro Regular" FontFamily="Myriad Pro" Name="Myriad Pro Regular" PostScriptName="MyriadPro-Regular" Status="Installed" FontStyleName="Regular" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro" FullNameNative="Myriad Pro" FontStyleNameNative="Regular" PlatformName="$ID/" Version="Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
+		<Font Self="di95FontnMyriad Pro Italic" FontFamily="Myriad Pro" Name="Myriad Pro Italic" PostScriptName="MyriadPro-It" Status="Installed" FontStyleName="Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Italic" FullNameNative="Myriad Pro Italic" FontStyleNameNative="Italic" PlatformName="$ID/" Version="Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
+		<Font Self="di95FontnMyriad Pro Semibold" FontFamily="Myriad Pro" Name="Myriad Pro Semibold" PostScriptName="MyriadPro-Semibold" Status="Installed" FontStyleName="Semibold" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Semibold" FullNameNative="Myriad Pro Semibold" FontStyleNameNative="Semibold" PlatformName="$ID/" Version="Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
+		<Font Self="di95FontnMyriad Pro Semibold Italic" FontFamily="Myriad Pro" Name="Myriad Pro Semibold Italic" PostScriptName="MyriadPro-SemiboldIt" Status="Substituted" FontStyleName="Semibold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Semibold Italic" FullNameNative="Myriad Pro Semibold Italic" FontStyleNameNative="Semibold Italic" PlatformName="$ID/" Version="Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
+		<Font Self="di95FontnMyriad Pro Bold" FontFamily="Myriad Pro" Name="Myriad Pro Bold" PostScriptName="MyriadPro-Bold" Status="Installed" FontStyleName="Bold" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold" FullNameNative="Myriad Pro Bold" FontStyleNameNative="Bold" PlatformName="$ID/" Version="Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
+		<Font Self="di95FontnMyriad Pro Bold Italic" FontFamily="Myriad Pro" Name="Myriad Pro Bold Italic" PostScriptName="MyriadPro-BoldIt" Status="Installed" FontStyleName="Bold Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Bold Italic" FullNameNative="Myriad Pro Bold Italic" FontStyleNameNative="Bold Italic" PlatformName="$ID/" Version="Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
+		<Font Self="di95FontnMyriad Pro Light" FontFamily="Myriad Pro" Name="Myriad Pro Light" PostScriptName="MyriadPro-Light" Status="Substituted" FontStyleName="Light" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Light" FullNameNative="Myriad Pro Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="OTF 1.006;PS 001.000;Core 1.0.23;hotunix 1.28" TypekitID="$ID/" />
+		<Font Self="di95FontnMyriad Pro Light Italic" FontFamily="Myriad Pro" Name="Myriad Pro Light Italic" PostScriptName="MyriadPro-LightIt" Status="Substituted" FontStyleName="Light Italic" FontType="OpenTypeCFF" WritingScript="0" FullName="Myriad Pro Light Italic" FullNameNative="Myriad Pro Light Italic" FontStyleNameNative="Light Italic" PlatformName="$ID/" Version="Version 2.102;PS 2.000;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="dia2" Name="Kozuka Mincho Pro">
+		<Font Self="dia2FontnKozuka Mincho Pro EL" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro EL" PostScriptName="KozMinPro-ExtraLight" Status="Substituted" FontStyleName="EL" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro EL" FullNameNative="小塚明朝 Pro EL" FontStyleNameNative="EL" PlatformName="$ID/" Version="Version 4.013;PS 4.003;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
+		<Font Self="dia2FontnKozuka Mincho Pro L" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro L" PostScriptName="KozMinPro-Light" Status="Substituted" FontStyleName="L" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro L" FullNameNative="小塚明朝 Pro L" FontStyleNameNative="L" PlatformName="$ID/" Version="Version 4.013;PS 4.003;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
+		<Font Self="dia2FontnKozuka Mincho Pro R" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro R" PostScriptName="KozMinPro-Regular" Status="Substituted" FontStyleName="R" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro R" FullNameNative="小塚明朝 Pro R" FontStyleNameNative="R" PlatformName="$ID/" Version="Version 4.013;PS 4.003;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
+		<Font Self="dia2FontnKozuka Mincho Pro M" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro M" PostScriptName="KozMinPro-Medium" Status="Substituted" FontStyleName="M" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro M" FullNameNative="小塚明朝 Pro M" FontStyleNameNative="M" PlatformName="$ID/" Version="Version 4.013;PS 4.003;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
+		<Font Self="dia2FontnKozuka Mincho Pro B" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro B" PostScriptName="KozMinPro-Bold" Status="Substituted" FontStyleName="B" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro B" FullNameNative="小塚明朝 Pro B" FontStyleNameNative="B" PlatformName="$ID/" Version="Version 4.013;PS 4.003;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
+		<Font Self="dia2FontnKozuka Mincho Pro H" FontFamily="Kozuka Mincho Pro" Name="Kozuka Mincho Pro H" PostScriptName="KozMinPro-Heavy" Status="Substituted" FontStyleName="H" FontType="OpenTypeCID" WritingScript="1" FullName="Kozuka Mincho Pro H" FullNameNative="小塚明朝 Pro H" FontStyleNameNative="H" PlatformName="$ID/" Version="Version 4.013;PS 4.003;hotconv 1.0.67;makeotf.lib2.5.33168" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="die5" Name="Helvetica (OTF)">
+		<Font Self="die5FontnHelvetica (OTF) Compressed" FontFamily="Helvetica (OTF)" Name="Helvetica (OTF) Compressed" PostScriptName="Helvetica-Compressed" Status="Substituted" FontStyleName="Compressed" FontType="OpenTypeCFF" WritingScript="0" FullName="Helvetica Compressed" FullNameNative="Helvetica Compressed" FontStyleNameNative="Compressed" PlatformName="$ID/" Version="OTF 1.0;PS 001.002;Core 1.0.22" TypekitID="$ID/" />
+		<Font Self="die5FontnHelvetica (OTF) Light Condensed" FontFamily="Helvetica (OTF)" Name="Helvetica (OTF) Light Condensed" PostScriptName="Helvetica-Condensed-Light" Status="Substituted" FontStyleName="Light Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Helvetica Light Condensed" FullNameNative="Helvetica Light Condensed" FontStyleNameNative="Light Condensed" PlatformName="$ID/" Version="OTF 1.0;PS 002.000;Core 1.0.22" TypekitID="$ID/" />
+		<Font Self="die5FontnHelvetica (OTF) Light Condensed Oblique" FontFamily="Helvetica (OTF)" Name="Helvetica (OTF) Light Condensed Oblique" PostScriptName="Helvetica-Condensed-LightObl" Status="Substituted" FontStyleName="Light Condensed Oblique" FontType="OpenTypeCFF" WritingScript="0" FullName="Helvetica Light Condensed Oblique" FullNameNative="Helvetica Light Condensed Oblique" FontStyleNameNative="Light Condensed Oblique" PlatformName="$ID/" Version="OTF 1.0;PS 002.000;Core 1.0.22" TypekitID="$ID/" />
+		<Font Self="die5FontnHelvetica (OTF) Condensed Oblique" FontFamily="Helvetica (OTF)" Name="Helvetica (OTF) Condensed Oblique" PostScriptName="Helvetica-Condensed-Oblique" Status="Substituted" FontStyleName="Condensed Oblique" FontType="OpenTypeCFF" WritingScript="0" FullName="Helvetica Condensed Oblique" FullNameNative="Helvetica Condensed Oblique" FontStyleNameNative="Condensed Oblique" PlatformName="$ID/" Version="OTF 1.0;PS 002.000;Core 1.0.22" TypekitID="$ID/" />
+		<Font Self="die5FontnHelvetica (OTF) Bold Condensed" FontFamily="Helvetica (OTF)" Name="Helvetica (OTF) Bold Condensed" PostScriptName="Helvetica-Condensed-Bold" Status="Substituted" FontStyleName="Bold Condensed" FontType="OpenTypeCFF" WritingScript="0" FullName="Helvetica Bold Condensed" FullNameNative="Helvetica Bold Condensed" FontStyleNameNative="Bold Condensed" PlatformName="$ID/" Version="OTF 1.0;PS 002.000;Core 1.0.22" TypekitID="$ID/" />
+		<Font Self="die5FontnHelvetica (OTF) Light" FontFamily="Helvetica (OTF)" Name="Helvetica (OTF) Light" PostScriptName="Helvetica-Light" Status="NotAvailable" FontStyleName="Light" FontType="OpenTypeCFF" WritingScript="0" FullName="Helvetica Light" FullNameNative="Helvetica Light" FontStyleNameNative="Light" PlatformName="$ID/" Version="OTF 1.0;PS 001.004;Core 1.0.22" TypekitID="$ID/" />
+		<Font Self="die5FontnHelvetica (OTF) Medium" FontFamily="Helvetica (OTF)" Name="Helvetica (OTF) Medium" PostScriptName="Helvetica" Status="NotAvailable" FontStyleName="Medium" FontType="OpenTypeCFF" WritingScript="0" FullName="Helvetica Medium" FullNameNative="Helvetica Medium" FontStyleNameNative="Medium" PlatformName="$ID/" Version="OTF 1.0;PS 003.000;Core 1.0.22" TypekitID="$ID/" />
+		<Font Self="die5FontnHelvetica (OTF) Oblique" FontFamily="Helvetica (OTF)" Name="Helvetica (OTF) Oblique" PostScriptName="Helvetica-Oblique" Status="NotAvailable" FontStyleName="Oblique" FontType="OpenTypeCFF" WritingScript="0" FullName="Helvetica Oblique" FullNameNative="Helvetica Oblique" FontStyleNameNative="Oblique" PlatformName="$ID/" Version="OTF 1.0;PS 003.000;Core 1.0.22" TypekitID="$ID/" />
+		<Font Self="die5FontnHelvetica (OTF) Bold Fractions" FontFamily="Helvetica (OTF)" Name="Helvetica (OTF) Bold Fractions" PostScriptName="Helvetica-FractionBold" Status="Substituted" FontStyleName="Bold Fractions" FontType="OpenTypeCFF" WritingScript="0" FullName="Helvetica Bold Fractions" FullNameNative="Helvetica Bold Fractions" FontStyleNameNative="Bold Fractions" PlatformName="$ID/" Version="OTF 1.0;PS 001.001;Core 1.0.22" TypekitID="$ID/" />
+		<Font Self="die5FontnHelvetica (OTF) Black" FontFamily="Helvetica (OTF)" Name="Helvetica (OTF) Black" PostScriptName="Helvetica-Black" Status="Substituted" FontStyleName="Black" FontType="OpenTypeCFF" WritingScript="0" FullName="Helvetica Black" FullNameNative="Helvetica Black" FontStyleNameNative="Black" PlatformName="$ID/" Version="OTF 1.0;PS 001.003;Core 1.0.22" TypekitID="$ID/" />
+		<Font Self="die5FontnHelvetica (OTF) Black Oblique" FontFamily="Helvetica (OTF)" Name="Helvetica (OTF) Black Oblique" PostScriptName="Helvetica-BlackOblique" Status="Substituted" FontStyleName="Black Oblique" FontType="OpenTypeCFF" WritingScript="0" FullName="Helvetica Black Oblique" FullNameNative="Helvetica Black Oblique" FontStyleNameNative="Black Oblique" PlatformName="$ID/" Version="OTF 1.0;PS 001.003;Core 1.0.22" TypekitID="$ID/" />
+	</FontFamily>
+	<FontFamily Self="die7" Name="$ID/AkzidenzGroteskBQ-Super" />
+	<FontFamily Self="die9" Name="$ID/AkzidenzGroteskBQ-Medium" />
+	<FontFamily Self="died" Name="$ID/SwiftEF-ExtraBold" />
+	<FontFamily Self="dief" Name="$ID/SwiftEF-RegularItalic" />
+	<FontFamily Self="dif1" Name="$ID/SwiftEF-Regular" />
+	<FontFamily Self="dif5" Name="$ID/AkzidenzGroteskBQ-Regular" />
+	<FontFamily Self="dif7" Name="$ID/MathematicalPi 1" />
+	<FontFamily Self="difa" Name="$ID/AkzidenzGroteskBQ-Bold" />
+	<FontFamily Self="diff" Name="$ID/SwiftEF-Bold" />
+	<FontFamily Self="di109" Name="$ID/AGaramond SemiboldSC" />
+	<FontFamily Self="di69e" Name="$ID/AkzidenzGroteskBQ-Med_sh" />
+	<FontFamily Self="dibf1" Name="$ID/AkzidenzGroteskBQ-Reg_sh" />
+	<FontFamily Self="di298b" Name="$ID/AkzidenzGroteskBQ-Sup_sh" />
+	<FontFamily Self="di6fe6" Name="$ID/AkzidenzGroteskBQ-Bo_sh" />
+	<CompositeFont Self="CompositeFont/$ID/[No composite font]" Name="$ID/[No composite font]">
+		<CompositeFontEntry Self="ua1" Name="$ID/Kanji" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="ua3" Name="$ID/Kana" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="ぁあぃいぅうぇえぉおかがきぎくぐけげこごさざしじすずせぜそぞただちぢっつづてでとどなにぬねのはばぱひびぴふぶぷへべぺほぼぽまみむめもゃやゅゆょよらりるれろゎわゐゑをんゔゕゖゝゞァアィイゥウェエォオカガキギクグケゲコゴサザシジスズセゼソゾタダチヂッツヅテデトドナニヌネノハバパヒビピフブプヘベペホボポマミムメモャヤュユョヨラリルレロヮワヰヱヲンヴヵヶヷヸヹヺーヽヾ" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="ua4" Name="$ID/Punctuation" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="—―‖‘’“”‥…′″∥、。〈〉《》「」『』【】〔〕〜・！（），．／：；？［］｛｝～" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="ua5" Name="$ID/Symbols" FontStyle="$ID/R" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="¢£§¨¬°±´¶×÷ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩαβγδεζηθικλμνξοπρστυφχψωЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяё‐†‡‰※℃Å←↑→↓⇒⇔∀∂∃∇∈∋−√∝∞∠∧∨∩∪∫∬∴∵∽≒≠≡≦≧≪≫⊂⊃⊆⊇⊥⌒■□▲△▼▽◆◇○◎●◯★☆♀♂♪♭♯〃〆〇〒〓゛゜＃＄％＆＊＋－０１２３４５６７８９＜＝＞＠ＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ＼＾＿｀ａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚ｜￠￡￢￣￥" Locked="true" ScaleOption="true" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Kozuka Mincho Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="ua6" Name="$ID/Alphabetic" FontStyle="$ID/Regular" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters=" !&quot;#$%&amp;&apos;()*+,-./:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ¡¤¥¦©ª«­®¯²³µ·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿıŒœŠšŸŽžƒˆˇ˘˙˚˛˜˝–‚„•‹›⁄€™∆∏∑≈≤≥◊ﬀﬁﬂﬃﬄﬅﬆ" Locked="true" ScaleOption="false" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Minion Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+		<CompositeFontEntry Self="ua7" Name="$ID/Numbers" FontStyle="$ID/Regular" RelativeSize="100" HorizontalScale="100" VerticalScale="100" CustomCharacters="0123456789" Locked="true" ScaleOption="false" BaselineShift="0">
+			<Properties>
+				<AppliedFont type="string">Minion Pro</AppliedFont>
+			</Properties>
+		</CompositeFontEntry>
+	</CompositeFont>
+	<RootCharacterStyleGroup Self="u77">
+		<CharacterStyle Self="CharacterStyle/GT" Imported="false" SplitDocument="false" EmitCss="true" StyleUniqueId="$ID/" IncludeClass="true" KeyboardShortcut="0 0" Name="GT" FillColor="Color/Schwarz" FontStyle="Medium" PointSize="9" HorizontalScale="100" KerningMethod="$ID/None" Ligatures="false" StrokeWeight="1" Tracking="20" BaselineShift="-0" Capitalization="Normal" StrokeColor="Swatch/None" KerningValue="0" VerticalScale="100" AppliedLanguage="$ID/de_DE_2006" NoBreak="false" Underline="false" OTFFigureStyle="Default" Position="Normal" StrikeThru="false" CharacterAlignment="AlignEmCenter" StrokeTint="-1" FillTint="100" OverprintStroke="false" OverprintFill="false" GradientStrokeAngle="0" GradientFillAngle="0" GradientStrokeLength="-1" GradientFillLength="-1" GradientStrokeStart="0 0" GradientFillStart="0 0" Skew="0" OTFOrdinal="false" OTFFraction="false" OTFDiscretionaryLigature="false" OTFTitling="false" PositionalForm="None" OTFMark="true" OTFLocale="true" OTFSlashedZero="false" OTFStylisticSets="0" OTFHistorical="false" OTFContextualAlternate="true" UnderlineGapOverprint="false" UnderlineGapTint="-1" UnderlineOffset="-9999" UnderlineOverprint="false" UnderlineTint="-1" UnderlineWeight="-9999" StrikeThroughGapOverprint="false" StrikeThroughGapTint="-1" StrikeThroughOffset="-9999" StrikeThroughOverprint="false" StrikeThroughTint="-1" StrikeThroughWeight="-9999" MiterLimit="4" StrokeAlignment="OutsideAlignment" EndJoin="MiterEndJoin" OTFSwash="false" Tsume="0" LeadingAki="-1" TrailingAki="-1" RubyOpenTypePro="true" RubyFontSize="-1" RubyAlignment="RubyJIS" RubyType="PerCharacterRuby" RubyParentSpacing="RubyParent121Aki" RubyXScale="100" RubyYScale="100" RubyXOffset="0" RubyYOffset="0" RubyPosition="AboveRight" RubyAutoAlign="true" RubyParentOverhangAmount="RubyOverhangOneRuby" RubyOverhang="false" RubyAutoScaling="false" RubyParentScalingPercent="66" RubyTint="-1" RubyOverprintFill="Auto" RubyStrokeTint="-1" RubyOverprintStroke="Auto" RubyWeight="-1" KentenKind="None" KentenFontSize="-1" KentenXScale="100" KentenYScale="100" KentenPlacement="0" KentenAlignment="AlignKentenCenter" KentenPosition="AboveRight" KentenCustomCharacter="" KentenCharacterSet="CharacterInput" KentenTint="-1" KentenOverprintFill="Auto" KentenStrokeTint="-1" KentenOverprintStroke="Auto" KentenWeight="-1" Tatechuyoko="false" TatechuyokoXOffset="0" TatechuyokoYOffset="0" Jidori="0" CharacterRotation="0" ShataiMagnification="0" ShataiDegreeAngle="4500" ShataiAdjustTsume="true" ShataiAdjustRotation="false" Warichu="false" WarichuLines="2" WarichuSize="50" WarichuLineSpacing="0" WarichuAlignment="Auto" WarichuCharsBeforeBreak="2" WarichuCharsAfterBreak="2" OTFHVKana="false" OTFProportionalMetrics="false" OTFRomanItalics="false" ScaleAffectsLineHeight="false" CjkGridTracking="false" GlyphForm="None" RubyAutoTcyDigits="0" RubyAutoTcyIncludeRoman="false" RubyAutoTcyAutoScale="true" DigitsType="DefaultDigits" Kashidas="DefaultKashidas" DiacriticPosition="OpentypePositionFromBaseline" CharacterDirection="DefaultDirection" XOffsetDiacritic="0" YOffsetDiacritic="0" OTFOverlapSwash="false" OTFStylisticAlternate="false" OTFJustificationAlternate="false" OTFStretchedAlternate="false">
+			<Properties>
+				<BasedOn type="string">$ID/[No character style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<Leading type="enumeration">Auto</Leading>
+				<AppliedFont type="string">$ID/AkzidenzGroteskBQ-Medium</AppliedFont>
+				<UnderlineColor type="string">Text Color</UnderlineColor>
+				<UnderlineGapColor type="object">Swatch/None</UnderlineGapColor>
+				<UnderlineType type="object">StrokeStyle/$ID/Solid</UnderlineType>
+				<StrikeThroughColor type="string">Text Color</StrikeThroughColor>
+				<StrikeThroughGapColor type="object">Swatch/None</StrikeThroughGapColor>
+				<StrikeThroughType type="object">StrokeStyle/$ID/Solid</StrikeThroughType>
+				<RubyFont type="string">$ID/</RubyFont>
+				<RubyFontStyle type="enumeration">Nothing</RubyFontStyle>
+				<RubyFill type="string">Text Color</RubyFill>
+				<RubyStroke type="string">Text Color</RubyStroke>
+				<KentenFont type="string">$ID/</KentenFont>
+				<KentenFontStyle type="enumeration">Nothing</KentenFontStyle>
+				<KentenFillColor type="string">Text Color</KentenFillColor>
+				<KentenStrokeColor type="string">Text Color</KentenStrokeColor>
+			</Properties>
+		</CharacterStyle>
+		<CharacterStyle Self="CharacterStyle/GT Auszeichnung bold" Imported="false" SplitDocument="false" EmitCss="true" StyleUniqueId="$ID/" IncludeClass="true" KeyboardShortcut="0 0" Name="GT Auszeichnung bold" FillColor="Color/titelfarbe">
+			<Properties>
+				<BasedOn type="object">CharacterStyle/GT</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+			</Properties>
+		</CharacterStyle>
+		<CharacterStyle Self="CharacterStyle/GT Autor" Imported="false" SplitDocument="false" EmitCss="true" StyleUniqueId="$ID/" IncludeClass="true" KeyboardShortcut="0 0" Name="GT Autor" FontStyle="Bold" PointSize="7" Tracking="150" Capitalization="AllCaps">
+			<Properties>
+				<BasedOn type="object">CharacterStyle/GT Auszeichnung bold</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">$ID/AkzidenzGroteskBQ-Bold</AppliedFont>
+			</Properties>
+		</CharacterStyle>
+		<CharacterStyle Self="CharacterStyle/GT Zeitung Auszeichnung Kursiv" Imported="false" SplitDocument="false" EmitCss="true" StyleUniqueId="$ID/" IncludeClass="true" KeyboardShortcut="0 0" Name="GT Zeitung Auszeichnung Kursiv" FontStyle="Regular Italic">
+			<Properties>
+				<BasedOn type="object">CharacterStyle/GT Zeitung</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">$ID/SwiftEF-RegularItalic</AppliedFont>
+			</Properties>
+		</CharacterStyle>
+		<CharacterStyle Self="CharacterStyle/GT Zeitung" Imported="false" SplitDocument="false" EmitCss="true" StyleUniqueId="$ID/" IncludeClass="true" KeyboardShortcut="0 0" Name="GT Zeitung" FillColor="Color/Schwarz" FontStyle="Regular" PointSize="8.5" HorizontalScale="100" KerningMethod="$ID/None" Ligatures="false" StrokeWeight="1" Tracking="15" BaselineShift="-0" Capitalization="Normal" StrokeColor="Swatch/None" KerningValue="0" VerticalScale="100" AppliedLanguage="$ID/de_DE_2006" NoBreak="false" Underline="false" OTFFigureStyle="Default" Position="Normal" StrikeThru="false" CharacterAlignment="AlignEmCenter" StrokeTint="-1" FillTint="100" OverprintStroke="false" OverprintFill="false" GradientStrokeAngle="0" GradientFillAngle="0" GradientStrokeLength="-1" GradientFillLength="-1" GradientStrokeStart="0 0" GradientFillStart="0 0" Skew="0" OTFOrdinal="false" OTFFraction="false" OTFDiscretionaryLigature="false" OTFTitling="false" PositionalForm="None" OTFMark="true" OTFLocale="true" OTFSlashedZero="false" OTFStylisticSets="0" OTFHistorical="false" OTFContextualAlternate="true" UnderlineGapOverprint="false" UnderlineGapTint="-1" UnderlineOffset="-9999" UnderlineOverprint="false" UnderlineTint="-1" UnderlineWeight="-9999" StrikeThroughGapOverprint="false" StrikeThroughGapTint="-1" StrikeThroughOffset="-9999" StrikeThroughOverprint="false" StrikeThroughTint="-1" StrikeThroughWeight="-9999" MiterLimit="4" StrokeAlignment="OutsideAlignment" EndJoin="MiterEndJoin" OTFSwash="false" Tsume="0" LeadingAki="-1" TrailingAki="-1" RubyOpenTypePro="true" RubyFontSize="-1" RubyAlignment="RubyJIS" RubyType="PerCharacterRuby" RubyParentSpacing="RubyParent121Aki" RubyXScale="100" RubyYScale="100" RubyXOffset="0" RubyYOffset="0" RubyPosition="AboveRight" RubyAutoAlign="true" RubyParentOverhangAmount="RubyOverhangOneRuby" RubyOverhang="false" RubyAutoScaling="false" RubyParentScalingPercent="66" RubyTint="-1" RubyOverprintFill="Auto" RubyStrokeTint="-1" RubyOverprintStroke="Auto" RubyWeight="-1" KentenKind="None" KentenFontSize="-1" KentenXScale="100" KentenYScale="100" KentenPlacement="0" KentenAlignment="AlignKentenCenter" KentenPosition="AboveRight" KentenCustomCharacter="" KentenCharacterSet="CharacterInput" KentenTint="-1" KentenOverprintFill="Auto" KentenStrokeTint="-1" KentenOverprintStroke="Auto" KentenWeight="-1" Tatechuyoko="false" TatechuyokoXOffset="0" TatechuyokoYOffset="0" Jidori="0" CharacterRotation="0" ShataiMagnification="0" ShataiDegreeAngle="4500" ShataiAdjustTsume="true" ShataiAdjustRotation="false" Warichu="false" WarichuLines="2" WarichuSize="50" WarichuLineSpacing="0" WarichuAlignment="Auto" WarichuCharsBeforeBreak="2" WarichuCharsAfterBreak="2" OTFHVKana="false" OTFProportionalMetrics="false" OTFRomanItalics="false" ScaleAffectsLineHeight="false" CjkGridTracking="false" GlyphForm="None" RubyAutoTcyDigits="0" RubyAutoTcyIncludeRoman="false" RubyAutoTcyAutoScale="true" DigitsType="DefaultDigits" Kashidas="DefaultKashidas" DiacriticPosition="OpentypePositionFromBaseline" CharacterDirection="DefaultDirection" XOffsetDiacritic="0" YOffsetDiacritic="0" OTFOverlapSwash="false" OTFStylisticAlternate="false" OTFJustificationAlternate="false" OTFStretchedAlternate="false">
+			<Properties>
+				<BasedOn type="string">$ID/[No character style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<Leading type="enumeration">Auto</Leading>
+				<AppliedFont type="string">$ID/SwiftEF-Regular</AppliedFont>
+				<UnderlineColor type="string">Text Color</UnderlineColor>
+				<UnderlineGapColor type="object">Swatch/None</UnderlineGapColor>
+				<UnderlineType type="object">StrokeStyle/$ID/Solid</UnderlineType>
+				<StrikeThroughColor type="string">Text Color</StrikeThroughColor>
+				<StrikeThroughGapColor type="object">Swatch/None</StrikeThroughGapColor>
+				<StrikeThroughType type="object">StrokeStyle/$ID/Solid</StrikeThroughType>
+				<RubyFont type="string">$ID/</RubyFont>
+				<RubyFontStyle type="enumeration">Nothing</RubyFontStyle>
+				<RubyFill type="string">Text Color</RubyFill>
+				<RubyStroke type="string">Text Color</RubyStroke>
+				<KentenFont type="string">$ID/</KentenFont>
+				<KentenFontStyle type="enumeration">Nothing</KentenFontStyle>
+				<KentenFillColor type="string">Text Color</KentenFillColor>
+				<KentenStrokeColor type="string">Text Color</KentenStrokeColor>
+			</Properties>
+		</CharacterStyle>
+	</RootCharacterStyleGroup>
+	<RootParagraphStyleGroup Self="u76">
+		<ParagraphStyle Self="ParagraphStyle/GT" Name="GT" Imported="false" NextStyle="ParagraphStyle/GT" SplitDocument="false" EmitCss="true" StyleUniqueId="$ID/" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FillColor="Color/Schwarz" FontStyle="Medium" PointSize="9" Ligatures="false" Tracking="20" BaselineShift="-0" HyphenationZone="0" MaximumWordSpacing="150" MinimumWordSpacing="75" FillTint="100" SingleWordJustification="LeftAlign" Justification="LeftJustified" GridAlignment="AlignBaseline">
+			<Properties>
+				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<Leading type="unit">13.039</Leading>
+				<AppliedFont type="string">$ID/AkzidenzGroteskBQ-Medium</AppliedFont>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/GT Auszeichnung" Name="GT Auszeichnung" Imported="false" NextStyle="ParagraphStyle/GT Auszeichnung" SplitDocument="false" EmitCss="true" StyleUniqueId="$ID/" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FillColor="Color/titelfarbe">
+			<Properties>
+				<BasedOn type="object">ParagraphStyle/GT</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/GT Autor" Name="GT Autor" Imported="false" NextStyle="ParagraphStyle/GT Autor" SplitDocument="false" EmitCss="true" StyleUniqueId="$ID/" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FillColor="Color/titelfarbe" FontStyle="Bold" PointSize="7" Tracking="150" Capitalization="AllCaps">
+			<Properties>
+				<BasedOn type="object">ParagraphStyle/GT</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">$ID/AkzidenzGroteskBQ-Bold</AppliedFont>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/GT Zeitung Auszeichnung" Name="GT Zeitung Auszeichnung" Imported="false" NextStyle="ParagraphStyle/GT Zeitung Auszeichnung" SplitDocument="false" EmitCss="true" StyleUniqueId="$ID/" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Regular Italic">
+			<Properties>
+				<BasedOn type="object">ParagraphStyle/GT Zeitung</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">$ID/SwiftEF-RegularItalic</AppliedFont>
+			</Properties>
+		</ParagraphStyle>
+		<ParagraphStyle Self="ParagraphStyle/GT Zeitung" Name="GT Zeitung" Imported="false" NextStyle="ParagraphStyle/GT Zeitung" SplitDocument="false" EmitCss="true" StyleUniqueId="$ID/" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="8.5" Tracking="15">
+			<Properties>
+				<BasedOn type="object">ParagraphStyle/GT</BasedOn>
+				<PreviewColor type="enumeration">Nothing</PreviewColor>
+				<AppliedFont type="string">$ID/SwiftEF-Regular</AppliedFont>
+			</Properties>
+		</ParagraphStyle>
+	</RootParagraphStyleGroup>
+	<TinDocumentDataObject>
+		<Properties>
+			<GaijiRefMaps><![CDATA[/////wAAAAAAAAAA]]></GaijiRefMaps>
+		</Properties>
+	</TinDocumentDataObject>
+	<CrossReferenceFormat Self="u96" Name="Vollständiger Absatz und Seitenzahl" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u96BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="„" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u96BuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u96BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="“ auf Seite " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u96BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u97" Name="Vollständiger Absatz" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u97BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="„" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u97BuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u97BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="“" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u98" Name="Absatztext und Seitenzahl" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u98BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="„" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u98BuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u98BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="“ auf Seite " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u98BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u99" Name="Absatztext" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u99BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="„" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u99BuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u99BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="“" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u9a" Name="Absatznr. und Seitenzahl" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u9aBuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9aBuildingBlock1" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText=" auf Seite " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9aBuildingBlock2" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u9b" Name="Absatznr." AppliedCharacterStyle="n">
+		<BuildingBlock Self="u9bBuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u9c" Name="Name des Textankers und Seitenzahl" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u9cBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="„" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9cBuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9cBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="“ auf Seite " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9cBuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u9d" Name="Name des Textankers" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u9dBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="„" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9dBuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9dBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="“" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u9e" Name="Seitenzahl" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u9eBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="Seite " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9eBuildingBlock1" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<Story Self="u4d2d" UserText="true" IsEndnoteStory="false" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="export-0170" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<MetadataPacketPreference>
+			<Properties>
+				<Contents><![CDATA[<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c143 79.161424, 2017/09/22-11:52:47        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:xmpGImg="http://ns.adobe.com/xap/1.0/g/img/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/"
+            xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">
+         <xmp:CreateDate>2018-09-11T18:24:48+02:00</xmp:CreateDate>
+         <xmp:MetadataDate>2018-09-11T18:24:48+02:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2018-09-11T18:24:48+02:00</xmp:ModifyDate>
+         <xmp:CreatorTool>Adobe InDesign CC 13.1 (Macintosh)</xmp:CreatorTool>
+         <xmp:Thumbnails>
+            <rdf:Alt>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpGImg:format>JPEG</xmpGImg:format>
+                  <xmpGImg:width>256</xmpGImg:width>
+                  <xmpGImg:height>256</xmpGImg:height>
+                  <xmpGImg:image>/9j/4AAQSkZJRgABAgEASABIAAD/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAASAAAAAEA&#xA;AQBIAAAAAQAB/+4AE0Fkb2JlAGQAAAAAAQUAAklE/9sAhAAKBwcHBwcKBwcKDgkJCQ4RDAsLDBEU&#xA;EBAQEBAUEQ8RERERDxERFxoaGhcRHyEhISEfKy0tLSsyMjIyMjIyMjIyAQsJCQ4MDh8XFx8rIx0j&#xA;KzIrKysrMjIyMjIyMjIyMjIyMjIyMjI+Pj4+PjJAQEBAQEBAQEBAQEBAQEBAQEBAQED/wAARCAD/&#xA;APEDAREAAhEBAxEB/8QBogAAAAcBAQEBAQAAAAAAAAAABAUDAgYBAAcICQoLAQACAgMBAQEBAQAA&#xA;AAAAAAABAAIDBAUGBwgJCgsQAAIBAwMCBAIGBwMEAgYCcwECAxEEAAUhEjFBUQYTYSJxgRQykaEH&#xA;FbFCI8FS0eEzFmLwJHKC8SVDNFOSorJjc8I1RCeTo7M2F1RkdMPS4ggmgwkKGBmElEVGpLRW01Uo&#xA;GvLj88TU5PRldYWVpbXF1eX1ZnaGlqa2xtbm9jdHV2d3h5ent8fX5/c4SFhoeIiYqLjI2Oj4KTlJ&#xA;WWl5iZmpucnZ6fkqOkpaanqKmqq6ytrq+hEAAgIBAgMFBQQFBgQIAwNtAQACEQMEIRIxQQVRE2Ei&#xA;BnGBkTKhsfAUwdHhI0IVUmJy8TMkNEOCFpJTJaJjssIHc9I14kSDF1STCAkKGBkmNkUaJ2R0VTfy&#xA;o7PDKCnT4/OElKS0xNTk9GV1hZWltcXV5fVGVmZ2hpamtsbW5vZHV2d3h5ent8fX5/c4SFhoeIiY&#xA;qLjI2Oj4OUlZaXmJmam5ydnp+So6SlpqeoqaqrrK2ur6/9oADAMBAAIRAxEAPwDqh8xaCCQdRtgR&#xA;sR6q/wBcFsuEu/xFoJ/6WNt/yNX+uNrwF3+I9A/6uNt/yNX+uNrwl3+I9A/6uNt/yNX+uNrwl3+I&#xA;9A/6uNt/yNX+uNrwl3+I9A/6uNt/yNX+uNrwl3+I9A/6uNt/yNX+uNrwl3+I9A/6uNt/yNX+uNrw&#xA;l3+I9A/6uNt/yNX+uNrwlGrc272/1tZFaAr6nqgjjwpXly8KYUUgv8R6B/1cbb/kav8AXBaeEu/x&#xA;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&#xA;Vv8AquqP9++X/wDkWf8Aqlit/wBVktf8vTv+B/5sxVI5J/3jf6XonU9Yt+vf4cU37lvr/wDL3of/&#xA;ACK/5txW/c71/wDl70P/AJFf824rfud6/wDy96H/AMiv+bcVv3O9f/l70P8A5Ff824rfud6//L3o&#xA;n/Ir/m3Fb9zfrnr9b0Sn/GL/AJtxW/c16/8Ay96H/wAiv+bcVv3O9f8A5e9D/wCRX/NuK37ma27V&#xA;0BW5wH/RSeaD/R/sHfj/ACYejUfqYV6//L3of/Ir/m3A237nev8A8veh/wDIr/m3Fb9zvX/5e9D/&#xA;AORX/NuK37nev/y96H/yK/5txW/c71/+XvQ/+RX/ADbit+53r/8AL3of/Ir/AJtxW/c71/8Al70P&#xA;/kV/zbit+53r/wDL3of/ACK/5txW/c71/wDl70P/AJFf824rfueixf3SdD8I+z06dsk0FbcmltMa&#xA;qPgbd91Gx+17YpHN556//L3of/Ir/m3It1+53r/8veh/8iv+bcVv3O9f/l70P/kV/wA24rfud6//&#xA;AC96H/yK/wCbcVv3O9f/AJe9D/5Ff824rfud6/8Ay96H/wAiv+bcVv3O9f8A5e9D/wCRX/NuK37n&#xA;ev8A8veh/wDIr/m3Fb9zvX/5e9D/AORX/NuK37mRep/xdYf8B/ZihjMlz+8b/TdJHxHrBv1/4xYr&#xA;fuW/Wf8Al+0j/pH/AOvWK35h31n/AJftI/6R/wDr1it+Yd9Z/wCX7SP+kf8A69YrfmHfWf8Al+0j&#xA;/pH/AOvWK35h31j/AJftI/6R/wDr1it+531n/l+0j/kR/wBesVvzDvrP/L9pH/SP/wBesVvzDvrP&#xA;/L9pH/SP/wBesVvzDOrZq+XVf1IT/opPqKtIfsH4uNPs+1MPRrP1MF+s/wDL9pH/AEj/APXrA2X5&#xA;h31n/l+0j/pH/wCvWK35h31n/l+0j/pH/wCvWK35h31n/l+0j/pH/wCvWK35h31n/l+0j/pH/wCv&#xA;WK35h31j/l+0j/pH/wCvWK35h31inW+0j/pH/wCvWK35h31n/l+0j/pH/wCvWK35h31j/l+0j/pH&#xA;/wCvWK35h6XF/dJ0PwjcdOnbJNJWXRpazGqikbbtuo2PX2xSObzf6z/y/aR/0j/9esi235h31n/l&#xA;+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&#xA;V2Kv/9k=</xmpGImg:image>
+               </rdf:li>
+            </rdf:Alt>
+         </xmp:Thumbnails>
+         <xmpMM:InstanceID>xmp.iid:27404271-adc5-4c75-a815-4a68235a7f25</xmpMM:InstanceID>
+         <xmpMM:DocumentID>xmp.did:6e138fdf-fdf0-4492-a665-5518833a29d3</xmpMM:DocumentID>
+         <xmpMM:OriginalDocumentID>xmp.did:6e138fdf-fdf0-4492-a665-5518833a29d3</xmpMM:OriginalDocumentID>
+         <xmpMM:History>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>created</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:6e138fdf-fdf0-4492-a665-5518833a29d3</stEvt:instanceID>
+                  <stEvt:when>2018-09-11T18:24:48+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign CC 13.1 (Macintosh)</stEvt:softwareAgent>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:27404271-adc5-4c75-a815-4a68235a7f25</stEvt:instanceID>
+                  <stEvt:when>2018-09-11T18:24:48+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign CC 13.1 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpMM:History>
+         <dc:format>application/x-indesign</dc:format>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">export-0170</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <xmpTPg:Colorants>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:swatchName>Black</xmpG:swatchName>
+                  <xmpG:mode>CMYK</xmpG:mode>
+                  <xmpG:type>Process</xmpG:type>
+                  <xmpG:cyan>0</xmpG:cyan>
+                  <xmpG:magenta>0</xmpG:magenta>
+                  <xmpG:yellow>0</xmpG:yellow>
+                  <xmpG:black>100</xmpG:black>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:swatchName>Paper</xmpG:swatchName>
+                  <xmpG:mode>CMYK</xmpG:mode>
+                  <xmpG:type>Process</xmpG:type>
+                  <xmpG:cyan>0</xmpG:cyan>
+                  <xmpG:magenta>0</xmpG:magenta>
+                  <xmpG:yellow>0</xmpG:yellow>
+                  <xmpG:black>0</xmpG:black>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:swatchName>Registration</xmpG:swatchName>
+                  <xmpG:mode>CMYK</xmpG:mode>
+                  <xmpG:type>Process</xmpG:type>
+                  <xmpG:cyan>100</xmpG:cyan>
+                  <xmpG:magenta>100</xmpG:magenta>
+                  <xmpG:yellow>100</xmpG:yellow>
+                  <xmpG:black>100</xmpG:black>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:swatchName>titelfarbe</xmpG:swatchName>
+                  <xmpG:mode>CMYK</xmpG:mode>
+                  <xmpG:type>Process</xmpG:type>
+                  <xmpG:cyan>100</xmpG:cyan>
+                  <xmpG:magenta>60</xmpG:magenta>
+                  <xmpG:yellow>0</xmpG:yellow>
+                  <xmpG:black>0</xmpG:black>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpTPg:Colorants>
+         <xmpTPg:Fonts>
+            <rdf:Bag>
+               <rdf:li rdf:parseType="Resource"/>
+            </rdf:Bag>
+         </xmpTPg:Fonts>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+<?xpacket end="r"?>]]></Contents>
+			</Properties>
+		</MetadataPacketPreference>
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/GT">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Januar 200</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>2</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>: Der Bunker liegt ganz am Rand der zürcherischen Kleinstadt Uster – noch hinter der Autobahn. Zum Bahnhof sind es etwa 20 Minuten Fussmarsch. Auf dem Gelände gibt es eine Schiessanlage mit dazugehörendem Restaurant </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>(</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>geschlosse</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>n</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>), Parkplätze für mindestens 50 Autos, einen Betrieb, der Pferde beherbergt, eine Privatstrasse, die zu Schrebergärten führt. </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>|</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content> Es ist nicht leicht, den Eingang zum Bunker zu finden. Man sieht eine Einfahrt zu einer unterirdischen Garage. Auf dem Garagentor klebt ein Zette</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>l</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>: </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>«</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>NU</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>K</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>». Notunterkunft wird das wohl heissen. Rechts neben dem Garagentor gibt es eine Betontüre. Dahinter ein Gang, wieder eine Betontüre, wieder ein Zette</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>l</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>: Hier durch geht’s zum </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>«</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Bür</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>o</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>». Dass in diesem Bunker etwa </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT" KerningValue="-25">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>1</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>00 Männer leben, wird nirgends ersichtlich.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/GT Auszeichnung">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Jüre wäre mitgekommen. Er hätte am Freitag vor dem </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold" Tracking="35">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>samstäglichen Besuch zu Hause eine Riesenportion </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>köstlichen Humus, ein nahöstliches Gericht aus Kichererbsen, zubereitet. </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>«</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Meinst du, die Leute dort mögen Humu</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>s?</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>», hätte er wohl vorher noch gefragt. Er hätte sich auch am Einkaufen und Transport der Mitbringsel beteilig</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>t</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>: Orangen, Äpfel, Süssigkeiten, Zigaretten, Brot, Oliven, Käse, Getränke.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/GT">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Nach drei Betontüren, alle etwa einen halben Meter dick, betreten wir einen unterirdischen, fensterlosen Betonraum. Tische, Stühle, ein Fernseher hoch oben in der Ecke an die Wand montiert. Platz für vielleicht </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT" KerningValue="-20">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>1</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>20 Menschen. Es zieht, die Luft ist seltsam, gefiltert. Mobiltelefone funktionieren hier unten nicht. Es sind nur wenige Männer anwesend. Die Voranmeldung unseres Besuchs bei den im Bunker eingesperrten Flüchtlingen hat nicht geklappt. Misstrauen, Staunen. Was wollt ih</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>r</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>? </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>|</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content> Gut, dass wir etwas mitgebracht haben. Ich frage zwei, drei Flüchtlinge und ein paar aus unserer Gruppe, ob sie mithelfen, die Geschenke vom Auto in den Bunker zu tragen. Das Eis bricht – wir machen erst mal etwas zusammen.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/GT Auszeichnung">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Ich habe Jüre etwa Mitte der achtziger Jahre kennen gelernt. </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>«</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Du warst doch in Frauenfeld im Flüchtlingslage</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>r</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>? Das ist wichtig. Willst du nicht ins Studio kommen und erzähle</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>n?</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>»</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT" FillColor="Color/titelfarbe">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content> </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>|</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT" FillColor="Color/titelfarbe">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content> </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Zu dieser Zeit machte er zusammen mit FreundInnen im alternativen Lokalradio LoRa die Knastsendung </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>«</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Scala – die Leite</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>r</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>». Eine Sendung, die ich hie und da hörte und – auch wegen der guten Musik – sehr mochte. Doch ich zögerte. Jüre war zu dieser Zeit unter den radikalen Linken berühmt und beliebt, wurde als </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold" Tracking="35">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Held dargestellt </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold" Tracking="35" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>(«</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold" Tracking="35">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>bewaffne</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold" Tracking="35" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>t!</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold" Tracking="35">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>», </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold" Tracking="35" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>«</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold" Tracking="35">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Knas</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold" Tracking="35" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>t!</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold" Tracking="35">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>», </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold" Tracking="35" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>«</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold" Tracking="35">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Hunger</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>strei</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>k!»</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>), mit dem ich eigentlich lieber nichts zu tun haben wollte. Im Radiostudio war dann alles anders. Jüre führte sich nicht wie ein Held auf, sondern zog mich geschickt ins Gespräch und nahm mir die Angst vor dem Mikrofon. Unnötigen Respekt vor dem angeblichen linken Guru liess er gar nicht erst aufkommen.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/GT">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Im Bunker packen wir gemeinsam unsere Mitbringsel aus. Wir, das sind AktivistInnen von </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>«</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>augenau</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>f</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>», einer unabhängigen Menschenrechtsgruppe, und viele Freunde und Freundinnen, die uns begleiten. Auf jeden Tisch kommen Getränke, Becher, Süssigkeiten, Käse. Es bilden sich kleine Gesprächsgruppen. Und aus den Schlafräumen tauchen immer mehr Männer auf. </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>«</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Welche Sprache sprichst d</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>u?</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>» – diese einfache Frage ist immer der Gesprächsanfang. </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>«</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Es gibt keine Fenster hier. Die ersten drei Tage wurde ich krank. Die Luft ist schlecht</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>»</Content>
+				<Br />
+				<Content>Ich frage einen Flüchtling, ob er mir die Schlafräume zeigen will. Wir gehen durch einen kurzen Betongang. Vor den Schlafräumen gibt es eine lange Garderobe – dort hängen die Kleider, der Bunker ist praktisch voll besetzt.</Content>
+				<Br />
+				<Content>Ein Schlafraum misst etwa fünf auf vier Meter. Auf drei Etagen sind Kojen angeordnet. Dünne Matratzen, Wolldecken. Vom obersten Bett bis zur Betondecke sind es etwa 60 cm. Man kann nicht aufsitzen. Der Raum ist fens­terlos. Anstelle einer Türe gibt es einen grell roten, </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT" Tracking="35">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>schmutzigen, leicht angerissenen Plastikvorhang. Es </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>gibt vier solche Schlafräume.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/GT Auszeichnung">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold" KerningValue="-25">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>1</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>988 wurde das Schweizer Asylverfahren wieder einmal verschärft. So genannte hoffnungslose Fälle, Flüchtlinge ohne Aussicht auf Asyl, wurden in abgelegenen </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>«</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Bundeslager</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>n</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>» zusammengepfercht, wo sie ihre Entscheide in einem verkürzten Verfahren abzuwarten hatten. Die Flüchtlinge organisierten sich, und es kam zu einer Kette von Hungerstreiks in den Lagern von Gorgier, Interlaken und Klosters. Zentrale Forderung war die Abschaffung des </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>«</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Verfahrens 8</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>8</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>». Wir vom Asylkomitee Zürich organisierten zusammen mit vielen FreundInnen aus dem linken Spektrum gemeinsame Solidaritätsbesuche in den Lagern.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT" FillColor="Color/titelfarbe">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content> </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>|</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT" FillColor="Color/titelfarbe">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content> </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>In Neuenburg gab es eine Demo. </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold" Tracking="10" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>«</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold" Tracking="10">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Grève de la faim – résistanc</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold" Tracking="10" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>e!</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold" Tracking="10">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>» Endlich eine französische Parole. Jüre und ich lachten uns an – es machte Spass, mit lau­- ter Stimme seinen Protest durch die kalt-regnerischen, ­hübsch-bünzligen Gassen von Neuenburg zu rufen.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/GT">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>«</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Unser Leben spielt sich zwischen Schlafraum, Esssaal und den Baracken oben auf dem Parkplatz ab. Oben warten wir auf die Telefonanrufe unserer Verwandten</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>» So erzählt mir Aziz – ein algerischer Krankenpfleger, der von den ewigen Todesdrohungen der bewaffneten Islamis­ten, weil er auch Militärs pflegte, genug hatte und abhaute.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/GT Auszeichnung">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Die Reaktionen auf den Hungerstreik im </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>«</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Bundeslage</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>r</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>» von Klosters waren beängstigend. Rassistische Berichte in den lokalen Medien hetzten die Menschen in Klosters auf, es kam zu Übergriffen. Die Flüchtlinge waren isoliert. Wir beschlossen zusammen mit den Flüchtlingen, den Kampf nach Zürich zu verlegen, und besetzten am 1. April </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold" KerningValue="-25">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>1</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>989 das Zürcher Theater am Neumarkt als </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>«</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Refugiu</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>m</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>». Jüre war von Anfang an dabei. Es gab endlos viel Arbeit und endlos viele Diskussionen. Es brauchte Wachpläne, Kochpläne, Propagandapläne und dann auch noch die Leute, die diese Pläne ausführten.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT" FillColor="Color/titelfarbe">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content> </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>|</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT" FillColor="Color/titelfarbe">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content> </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Die ersten Risse zwischen den Flüchtlingen und den Schweizer UnterstützerInnen wurden sichtbar. Die Ungewissheit des Lebens in der Illegalität machte den Flüchtlingen zu schaffen.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/GT">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>«</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Immer am Donnerstag bekommen wir </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT" KerningValue="-10">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>1</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>4 Franken. Rechne mal. Drei Franken der Bus zum Bahnhof, 4.80 der Zug nach Zürich. Kaffeetrinken liegt nicht drin. Wir brauchen das Geld für Zigaretten. Deshalb sind wir hier völlig isolier</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>t</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>», erzählt mir ein anderer Flüchtling, ein junger Kurde aus Syrien. </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>«</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Das hier ist ein Gefängnis</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>» Nachts um zwölf wird der Bunker geschlossen. Die Menschen können danach weder raus noch rein,</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/GT Auszeichnung">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Nach knapp </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold" KerningValue="-25">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>1</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>0 Tagen Besetzung des Theaters kündet der Stadtrat von Zürich die polizeiliche Räumung an. Während sich die meisten SchweizerInnen auf den Widerstand gegen die polizeiliche Räumung des besetzten Theaters konzentrieren, beschloss Jüre, bei den Flüchtlingen zu bleiben, die vor der Räumung das Theater heimlich verliessen und gemeinsam untertauchten. Die Kontinuität war ihm wichtiger als das kurze, plakative Aufbäumen gegen die Polizei.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT" FillColor="Color/titelfarbe">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content> </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>|</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT" FillColor="Color/titelfarbe">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content> </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Kurz vor dem ersten Mai besetzten wir den Hauptsitz der Gewerkschaft Bau und Industrie, GBI, in Zürich. Trotz der Unterstützung durch viele GewerkschafterInnen war es mühsam bei der GBI. Räumungsdrohungen standen in der Luft. Wir beschlossen, die Refugien </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>«</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>im Untergrun</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>d</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>» weiterzuführen.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/GT">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>«</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Es gibt nie frisches Essen, immer nur Konserven. Wie im Militä</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>r</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>», sagt mein kurdischer Gewährsmann. Er muss wissen, wie Militär-Konserven schmecken, denn vor seiner Flucht musste er dreieinhalb Jahre im syrischen Militär verbringen. Pro Tag und Person erhält die private Firma ORS, die den Bunker führt, 9 Franken 30 für die Ernährung der Leute. Gekocht wird zentral in Liestal, einer </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT" KerningValue="-25">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>1</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>20 Kilometer entfernten Ortschaft. Jeder Rappen, der am Essen der Flüchtlinge gespart wird, ist Reingewinn. Sonntags gibt es kein Mittagessen – Sonntag für die ORS-Kasse.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/GT Auszeichnung">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Lange Jahre hindurch versuchten wir gemeinsam mit den Flüchtlingen das Leben in der Illegalität zu organisieren. Jüre hat Arbeitsplätze gefunden, Wohnungen und Zimmer organisiert, endlos mit den versteckten Freunden diskutiert, Kurse gegeben, Flüchtlinge beherbergt und bekocht. Politische Perspektiven in der Zusammenarbeit mit Flüchtlingen waren Jüre wichtig, nebst der, allzu oft bevormundenden, Sozialarbeit. Die Unterstützung durch Schweizer GenossInnen schmolz dahin – unsere geflüchteten Freunde suchten sich oft erfolglos einen eigenen Weg. Sie haben geheiratet, wurden ausgeschafft, gaben freiwillig auf, reisten in Drittländer. </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>«</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Massenhaft die Illegalität zu organisiere</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>n</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>», wie wir es einmal formuliert hatten, war keine Perspektive mehr.</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT" FillColor="Color/titelfarbe">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content> </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>|</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT" FillColor="Color/titelfarbe">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content> </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Bis zu seinem Lebensende hat Jüre aktiv die Schweizer Abschottungs- und Ausgrenzungspolitik bekämpft. Er war beim tamilischen Wander-Refugium </Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold" KerningValue="-25">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>1</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>9</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold" KerningValue="-15">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>9</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Auszeichnung bold">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>4 in Zürich tragend mit dabei, hat brummelnd und murrend mit Jesuiten-Patres, Hilfswerkleuten und protestantischen Kirchgemeinden diskutiert und gestritten. Hat zusammen mit seinen WohngenossInnen immer wieder MigrantInnen beherbergt und sich mit Hand, Herz und Kopf am Kampf für die Rechte der Rechtlosen eingesetzt. </Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/GT">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Der Solidaritätsbesuch in Uster nähert sich dem Ende. Wir verabschieden uns, streiten noch ein bisschen mit dem herbeigeeilten ORS-Chef um die dringend nötige Zahnbehandlung für einen Flüchtling. Telefonnummern werden ausgetauscht. JedeR Einzelne wird herzlich verabschiedet. Mensch merk</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT" KerningValue="50">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>t</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>: Der Besuch war zu kurz, zu wenig – so viel gäbe es noch zu diskutieren und zu organisieren. Jüre hätte mitgemacht.</Content>
+				<Br />
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/GT Autor" GridAlignment="None">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Autor">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Christoph Hugenschmidt</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/GT">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/GT Zeitung Auszeichnung" Justification="LeftAlign">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/GT Zeitung Auszeichnung Kursiv">
+				<Properties>
+					<Leading type="unit">13.039</Leading>
+				</Properties>
+				<Content>Ende März 2002 wurde der angebliche «Notstand» bei Flüchtlings­unterkünften im Kanton Zürich für beendet erklärt und der  Bunker in Uster geschlossen. Doch die Strategie, Flüchtlinge unter möglichst schlechten Bedingungen festzuhalten, konnte sich  leider als «normal» etablieren. Heute, im Februar 2005, wird der  Bunker in Uster wieder dazu benützt, Flüchtlinge, auf deren  Asylgesuch nicht eingetreten wurde, einzupferchen. So sollen sie  dazu gebracht werden, «freiwillig» auszureisen.</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+	<ColorGroup Self="ColorGroup/[Root Color Group]" Name="[Root Color Group]" IsRootColorGroup="true">
+		<ColorGroupSwatch Self="u9982ColorGroupSwatchd" SwatchItemRef="Color/titelfarbe" />
+		<ColorGroupSwatch Self="u9982ColorGroupSwatchc" SwatchItemRef="Color/Schwarz" />
+		<ColorGroupSwatch Self="u9982ColorGroupSwatch0" SwatchItemRef="Swatch/None" />
+	</ColorGroup>
+</Document>

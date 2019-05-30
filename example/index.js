@@ -1,35 +1,28 @@
 var fs = require("fs");
 const R = require("ramda");
 const icml2ntz = require("../src/");
-const Ntz2icml = require("notzer.ntz2icml");
 const path = require("path");
 
-let writeLog = content => {
-  writeKey(R.keys(content));
-
-  let output = JSON.stringify(content, null, 4);
-  fs.writeFileSync(path.resolve(__dirname, "../example/data/log.json"), output);
-};
-
-let writeKey = content => {
-  let output = JSON.stringify(content, null, 4);
-  fs.writeFileSync(path.resolve(__dirname, "../example/data/key.json"), output);
-};
+const derBesuch = [
+  "./articles/Der Besuch/export-0166.icml",
+  "./articles/Der Besuch/export-0170.icml",
+  "./articles/Der Besuch/export-0175.icml",
+  "./articles/Der Besuch/export-0176.icml"
+];
 
 // parse icml to ntz
-const icml = fs.readFileSync(path.resolve(__dirname, "./data/index.icml"));
-let notzer = new icml2ntz(icml);
+let result = [];
 
-writeLog(notzer.getParagraphStyleRanges()[0].CharacterStyleRange[0].Content);
+derBesuch.forEach(filePath => {
+  console.log(`processing ${filePath}`)
+  const icml = fs.readFileSync(path.resolve(__dirname, filePath));
+  let notzer = new icml2ntz(icml);
 
-let ntz = notzer.parse();
-let output = JSON.stringify(ntz, null, 4);
+  let ntz = notzer.parse();
+  // result.push(...ntz);
+  result = ntz
+});
+
+let output = JSON.stringify(result, null, 4);
 // write notzer file
-fs.writeFileSync(path.resolve(__dirname, "./data/index.ntz.json"), output);
-
-// re-export
-let ntz2icml = new Ntz2icml();
-fs.writeFileSync(
-  path.resolve(__dirname, "./data/re-export.icml"),
-  ntz2icml.convert(ntz)
-);
+fs.writeFileSync(path.resolve(__dirname, "./articles/Der Besuch/index.ntz.json"), output);

@@ -1,0 +1,703 @@
+[
+    {
+        "processor": {
+            "type": "paragraph",
+            "content-after": "RETURN",
+            "node": "p",
+            "title": "Kapitel"
+        },
+        "children": [
+            {
+                "processor": {
+                    "type": "inline",
+                    "title": "Kapitel"
+                },
+                "children": [
+                    {
+                        "processor": {
+                            "type": "text"
+                        },
+                        "value": "Der Besuch "
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "processor": {
+            "type": "paragraph",
+            "content-after": "RETURN",
+            "node": "p",
+            "title": "GT"
+        },
+        "children": [
+            {
+                "processor": {
+                    "type": "inline",
+                    "title": "GT"
+                },
+                "children": [
+                    {
+                        "processor": {
+                            "type": "text"
+                        },
+                        "value": "Januar 2002: Der Bunker liegt ganz am Rand der zürcherischen Kleinstadt Uster – noch hinter der Autobahn. Zum Bahnhof sind es etwa 20 Minuten Fussmarsch. Auf dem Gelände gibt es eine Schiessanlage mit dazugehörendem Restaurant (geschlossen), Parkplätze für mindestens 50 Autos, einen Betrieb, der Pferde beherbergt, eine Privatstrasse, die zu Schrebergärten führt. "
+                    }
+                ]
+            },
+            {
+                "processor": {
+                    "type": "inline",
+                    "title": "GT Auszeichnung bold"
+                },
+                "children": [
+                    {
+                        "processor": {
+                            "type": "text"
+                        },
+                        "value": "|"
+                    }
+                ]
+            },
+            {
+                "processor": {
+                    "type": "inline",
+                    "title": "GT"
+                },
+                "children": [
+                    {
+                        "processor": {
+                            "type": "text"
+                        },
+                        "value": " Es ist nicht leicht, den Eingang zum Bunker zu finden. Man sieht eine Einfahrt zu einer unterirdischen Garage. Auf dem Garagentor klebt ein Zettel: «NUK». Notunterkunft wird das wohl heissen. Rechts neben dem Garagentor gibt es eine Betontüre. Dahinter ein Gang, wieder eine Betontüre, wieder ein Zettel: Hier durch geht’s zum «Büro». Dass in diesem Bunker etwa 100 Männer leben, wird nirgends ersichtlich."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "processor": {
+            "type": "paragraph",
+            "content-after": "RETURN",
+            "node": "p",
+            "title": "GT Auszeichnung"
+        },
+        "children": [
+            {
+                "processor": {
+                    "type": "inline",
+                    "title": "GT Auszeichnung bold"
+                },
+                "children": [
+                    {
+                        "processor": {
+                            "type": "text"
+                        },
+                        "value": "Jüre wäre mitgekommen. Er hätte am Freitag vor dem samstäglichen Besuch zu Hause eine Riesenportion köstlichen Humus, ein nahöstliches Gericht aus Kichererbsen, zubereitet. «Meinst du, die Leute dort mögen Humus?», hätte er wohl vorher noch gefragt. Er hätte sich auch am Einkaufen und Transport der Mitbringsel beteiligt: Orangen, Äpfel, Süssigkeiten, Zigaretten, Brot, Oliven, Käse, Getränke."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "processor": {
+            "type": "paragraph",
+            "content-after": "RETURN",
+            "node": "p",
+            "title": "GT"
+        },
+        "children": [
+            {
+                "processor": {
+                    "type": "inline",
+                    "title": "GT"
+                },
+                "children": [
+                    {
+                        "processor": {
+                            "type": "text"
+                        },
+                        "value": "Nach drei Betontüren, alle etwa einen halben Meter dick, betreten wir einen unterirdischen, fensterlosen Betonraum. Tische, Stühle, ein Fernseher hoch oben in der Ecke an die Wand montiert. Platz für vielleicht 120 Menschen. Es zieht, die Luft ist seltsam, gefiltert. Mobiltelefone funktionieren hier unten nicht. Es sind nur wenige Männer anwesend. Die Voranmeldung unseres Besuchs bei den im Bunker eingesperrten Flüchtlingen hat nicht geklappt. Misstrauen, Staunen. Was wollt ihr? "
+                    }
+                ]
+            },
+            {
+                "processor": {
+                    "type": "inline",
+                    "title": "GT Auszeichnung bold"
+                },
+                "children": [
+                    {
+                        "processor": {
+                            "type": "text"
+                        },
+                        "value": "|"
+                    }
+                ]
+            },
+            {
+                "processor": {
+                    "type": "inline",
+                    "title": "GT"
+                },
+                "children": [
+                    {
+                        "processor": {
+                            "type": "text"
+                        },
+                        "value": " Gut, dass wir etwas mitgebracht haben. Ich frage zwei, drei Flüchtlinge und ein paar aus unserer Gruppe, ob sie mithelfen, die Geschenke vom Auto in den Bunker zu tragen. Das Eis bricht – wir machen erst mal etwas zusammen."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "processor": {
+            "type": "paragraph",
+            "content-after": "RETURN",
+            "node": "p",
+            "title": "GT Auszeichnung"
+        },
+        "children": [
+            {
+                "processor": {
+                    "type": "inline",
+                    "title": "GT Auszeichnung bold"
+                },
+                "children": [
+                    {
+                        "processor": {
+                            "type": "text"
+                        },
+                        "value": "Ich habe Jüre etwa Mitte der achtziger Jahre kennen gelernt. «Du warst doch in Frauenfeld im Flüchtlingslager? Das ist wichtig. Willst du nicht ins Studio kommen und erzählen?»"
+                    }
+                ]
+            },
+            {
+                "processor": {
+                    "type": "inline",
+                    "title": "GT"
+                },
+                "children": [
+                    {
+                        "processor": {
+                            "type": "text"
+                        },
+                        "value": " | "
+                    }
+                ]
+            },
+            {
+                "processor": {
+                    "type": "inline",
+                    "title": "GT Auszeichnung bold"
+                },
+                "children": [
+                    {
+                        "processor": {
+                            "type": "text"
+                        },
+                        "value": "Zu dieser Zeit machte er zusammen mit FreundInnen im alternativen Lokalradio LoRa die Knastsendung «Scala – die Leiter». Eine Sendung, die ich hie und da hörte und – auch wegen der guten Musik – sehr mochte. Doch ich zögerte. Jüre war zu dieser Zeit unter den radikalen Linken berühmt und beliebt, wurde als Held dargestellt («bewaffnet!», «Knast!», «Hungerstreik!»), mit dem ich eigentlich lieber nichts zu tun haben wollte. Im Radiostudio war dann alles anders. Jüre führte sich nicht wie ein Held auf, sondern zog mich geschickt ins Gespräch und nahm mir die Angst vor dem Mikrofon. Unnötigen Respekt vor dem angeblichen linken Guru liess er gar nicht erst aufkommen."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "processor": {
+            "type": "paragraph",
+            "content-after": "RETURN",
+            "node": "p",
+            "title": "GT"
+        },
+        "children": [
+            {
+                "processor": {
+                    "type": "inline",
+                    "title": "GT"
+                },
+                "children": [
+                    {
+                        "processor": {
+                            "type": "text"
+                        },
+                        "value": "Im Bunker packen wir gemeinsam unsere Mitbringsel aus. Wir, das sind AktivistInnen von «augenauf», einer unabhängigen Menschenrechtsgruppe, und viele Freunde und Freundinnen, die uns begleiten. Auf jeden Tisch kommen Getränke, Becher, Süssigkeiten, Käse. Es bilden sich kleine Gesprächsgruppen. Und aus den Schlafräumen tauchen immer mehr Männer auf. «Welche Sprache sprichst du?» – diese einfache Frage ist immer der Gesprächsanfang. «Es gibt keine Fenster hier. Die ersten drei Tage wurde ich krank. Die Luft ist schlecht.schmutzigen, leicht angerissenen Plastikvorhang. Es gibt vier solche Schlafräume."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "processor": {
+            "type": "paragraph",
+            "content-after": "RETURN",
+            "node": "p",
+            "title": "GT Auszeichnung"
+        },
+        "children": [
+            {
+                "processor": {
+                    "type": "inline",
+                    "title": "GT Auszeichnung bold"
+                },
+                "children": [
+                    {
+                        "processor": {
+                            "type": "text"
+                        },
+                        "value": "1988 wurde das Schweizer Asylverfahren wieder einmal verschärft. So genannte hoffnungslose Fälle, Flüchtlinge ohne Aussicht auf Asyl, wurden in abgelegenen «Bundeslagern» zusammengepfercht, wo sie ihre Entscheide in einem verkürzten Verfahren abzuwarten hatten. Die Flüchtlinge organisierten sich, und es kam zu einer Kette von Hungerstreiks in den Lagern von Gorgier, Interlaken und Klosters. Zentrale Forderung war die Abschaffung des «Verfahrens 88». Wir vom Asylkomitee Zürich organisierten zusammen mit vielen FreundInnen aus dem linken Spektrum gemeinsame Solidaritätsbesuche in den Lagern."
+                    }
+                ]
+            },
+            {
+                "processor": {
+                    "type": "inline",
+                    "title": "GT"
+                },
+                "children": [
+                    {
+                        "processor": {
+                            "type": "text"
+                        },
+                        "value": " | "
+                    }
+                ]
+            },
+            {
+                "processor": {
+                    "type": "inline",
+                    "title": "GT Auszeichnung bold"
+                },
+                "children": [
+                    {
+                        "processor": {
+                            "type": "text"
+                        },
+                        "value": "In Neuenburg gab es eine Demo. «Grève de la faim – résistance!» Endlich eine französische Parole. Jüre und ich lachten uns an – es machte Spass, mit lau­- ter Stimme seinen Protest durch die kalt-regnerischen, ­hübsch-bünzligen Gassen von Neuenburg zu rufen."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "processor": {
+            "type": "paragraph",
+            "content-after": "RETURN",
+            "node": "p",
+            "title": "GT"
+        },
+        "children": [
+            {
+                "processor": {
+                    "type": "inline",
+                    "title": "GT"
+                },
+                "children": [
+                    {
+                        "processor": {
+                            "type": "text"
+                        },
+                        "value": "«Unser Leben spielt sich zwischen Schlafraum, Esssaal und den Baracken oben auf dem Parkplatz ab. Oben warten wir auf die Telefonanrufe unserer Verwandten.» So erzählt mir Aziz – ein algerischer Krankenpfleger, der von den ewigen Todesdrohungen der bewaffneten Islamis­ten, weil er auch Militärs pflegte, genug hatte und abhaute."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "processor": {
+            "type": "paragraph",
+            "content-after": "RETURN",
+            "node": "p",
+            "title": "GT Auszeichnung"
+        },
+        "children": [
+            {
+                "processor": {
+                    "type": "inline",
+                    "title": "GT Auszeichnung bold"
+                },
+                "children": [
+                    {
+                        "processor": {
+                            "type": "text"
+                        },
+                        "value": "Die Reaktionen auf den Hungerstreik im «Bundeslager» von Klosters waren beängstigend. Rassistische Berichte in den lokalen Medien hetzten die Menschen in Klosters auf, es kam zu Übergriffen. Die Flüchtlinge waren isoliert. Wir beschlossen zusammen mit den Flüchtlingen, den Kampf nach Zürich zu verlegen, und besetzten am 1. April 1989 das Zürcher Theater am Neumarkt als «Refugium». Jüre war von Anfang an dabei. Es gab endlos viel Arbeit und endlos viele Diskussionen. Es brauchte Wachpläne, Kochpläne, Propagandapläne und dann auch noch die Leute, die diese Pläne ausführten."
+                    }
+                ]
+            },
+            {
+                "processor": {
+                    "type": "inline",
+                    "title": "GT"
+                },
+                "children": [
+                    {
+                        "processor": {
+                            "type": "text"
+                        },
+                        "value": " | "
+                    }
+                ]
+            },
+            {
+                "processor": {
+                    "type": "inline",
+                    "title": "GT Auszeichnung bold"
+                },
+                "children": [
+                    {
+                        "processor": {
+                            "type": "text"
+                        },
+                        "value": "Die ersten Risse zwischen den Flüchtlingen und den Schweizer UnterstützerInnen wurden sichtbar. Die Ungewissheit des Lebens in der Illegalität machte den Flüchtlingen zu schaffen."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "processor": {
+            "type": "paragraph",
+            "content-after": "RETURN",
+            "node": "p",
+            "title": "GT"
+        },
+        "children": [
+            {
+                "processor": {
+                    "type": "inline",
+                    "title": "GT"
+                },
+                "children": [
+                    {
+                        "processor": {
+                            "type": "text"
+                        },
+                        "value": "«Immer am Donnerstag bekommen wir 14 Franken. Rechne mal. Drei Franken der Bus zum Bahnhof, 4.80 der Zug nach Zürich. Kaffeetrinken liegt nicht drin. Wir brauchen das Geld für Zigaretten. Deshalb sind wir hier völlig isoliert», erzählt mir ein anderer Flüchtling, ein junger Kurde aus Syrien. «Das hier ist ein Gefängnis.» Nachts um zwölf wird der Bunker geschlossen. Die Menschen können danach weder raus noch rein,"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "processor": {
+            "type": "paragraph",
+            "content-after": "RETURN",
+            "node": "p",
+            "title": "GT Auszeichnung"
+        },
+        "children": [
+            {
+                "processor": {
+                    "type": "inline",
+                    "title": "GT Auszeichnung bold"
+                },
+                "children": [
+                    {
+                        "processor": {
+                            "type": "text"
+                        },
+                        "value": "Nach knapp 10 Tagen Besetzung des Theaters kündet der Stadtrat von Zürich die polizeiliche Räumung an. Während sich die meisten SchweizerInnen auf den Widerstand gegen die polizeiliche Räumung des besetzten Theaters konzentrieren, beschloss Jüre, bei den Flüchtlingen zu bleiben, die vor der Räumung das Theater heimlich verliessen und gemeinsam untertauchten. Die Kontinuität war ihm wichtiger als das kurze, plakative Aufbäumen gegen die Polizei."
+                    }
+                ]
+            },
+            {
+                "processor": {
+                    "type": "inline",
+                    "title": "GT"
+                },
+                "children": [
+                    {
+                        "processor": {
+                            "type": "text"
+                        },
+                        "value": " | "
+                    }
+                ]
+            },
+            {
+                "processor": {
+                    "type": "inline",
+                    "title": "GT Auszeichnung bold"
+                },
+                "children": [
+                    {
+                        "processor": {
+                            "type": "text"
+                        },
+                        "value": "Kurz vor dem ersten Mai besetzten wir den Hauptsitz der Gewerkschaft Bau und Industrie, GBI, in Zürich. Trotz der Unterstützung durch viele GewerkschafterInnen war es mühsam bei der GBI. Räumungsdrohungen standen in der Luft. Wir beschlossen, die Refugien «im Untergrund» weiterzuführen."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "processor": {
+            "type": "paragraph",
+            "content-after": "RETURN",
+            "node": "p",
+            "title": "GT"
+        },
+        "children": [
+            {
+                "processor": {
+                    "type": "inline",
+                    "title": "GT"
+                },
+                "children": [
+                    {
+                        "processor": {
+                            "type": "text"
+                        },
+                        "value": "«Es gibt nie frisches Essen, immer nur Konserven. Wie im Militär», sagt mein kurdischer Gewährsmann. Er muss wissen, wie Militär-Konserven schmecken, denn vor seiner Flucht musste er dreieinhalb Jahre im syrischen Militär verbringen. Pro Tag und Person erhält die private Firma ORS, die den Bunker führt, 9 Franken 30 für die Ernährung der Leute. Gekocht wird zentral in Liestal, einer 120 Kilometer entfernten Ortschaft. Jeder Rappen, der am Essen der Flüchtlinge gespart wird, ist Reingewinn. Sonntags gibt es kein Mittagessen – Sonntag für die ORS-Kasse."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "processor": {
+            "type": "paragraph",
+            "content-after": "RETURN",
+            "node": "p",
+            "title": "GT Auszeichnung"
+        },
+        "children": [
+            {
+                "processor": {
+                    "type": "inline",
+                    "title": "GT Auszeichnung bold"
+                },
+                "children": [
+                    {
+                        "processor": {
+                            "type": "text"
+                        },
+                        "value": "Lange Jahre hindurch versuchten wir gemeinsam mit den Flüchtlingen das Leben in der Illegalität zu organisieren. Jüre hat Arbeitsplätze gefunden, Wohnungen und Zimmer organisiert, endlos mit den versteckten Freunden diskutiert, Kurse gegeben, Flüchtlinge beherbergt und bekocht. Politische Perspektiven in der Zusammenarbeit mit Flüchtlingen waren Jüre wichtig, nebst der, allzu oft bevormundenden, Sozialarbeit. Die Unterstützung durch Schweizer GenossInnen schmolz dahin – unsere geflüchteten Freunde suchten sich oft erfolglos einen eigenen Weg. Sie haben geheiratet, wurden ausgeschafft, gaben freiwillig auf, reisten in Drittländer. «Massenhaft die Illegalität zu organisieren», wie wir es einmal formuliert hatten, war keine Perspektive mehr."
+                    }
+                ]
+            },
+            {
+                "processor": {
+                    "type": "inline",
+                    "title": "GT"
+                },
+                "children": [
+                    {
+                        "processor": {
+                            "type": "text"
+                        },
+                        "value": " | "
+                    }
+                ]
+            },
+            {
+                "processor": {
+                    "type": "inline",
+                    "title": "GT Auszeichnung bold"
+                },
+                "children": [
+                    {
+                        "processor": {
+                            "type": "text"
+                        },
+                        "value": "Bis zu seinem Lebensende hat Jüre aktiv die Schweizer Abschottungs- und Ausgrenzungspolitik bekämpft. Er war beim tamilischen Wander-Refugium 1994 in Zürich tragend mit dabei, hat brummelnd und murrend mit Jesuiten-Patres, Hilfswerkleuten und protestantischen Kirchgemeinden diskutiert und gestritten. Hat zusammen mit seinen WohngenossInnen immer wieder MigrantInnen beherbergt und sich mit Hand, Herz und Kopf am Kampf für die Rechte der Rechtlosen eingesetzt. "
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "processor": {
+            "type": "paragraph",
+            "content-after": "RETURN",
+            "node": "p",
+            "title": "GT"
+        },
+        "children": [
+            {
+                "processor": {
+                    "type": "inline",
+                    "title": "GT"
+                },
+                "children": [
+                    {
+                        "processor": {
+                            "type": "text"
+                        },
+                        "value": "Der Solidaritätsbesuch in Uster nähert sich dem Ende. Wir verabschieden uns, streiten noch ein bisschen mit dem herbeigeeilten ORS-Chef um die dringend nötige Zahnbehandlung für einen Flüchtling. Telefonnummern werden ausgetauscht. JedeR Einzelne wird herzlich verabschiedet. Mensch merkt: Der Besuch war zu kurz, zu wenig – so viel gäbe es noch zu diskutieren und zu organisieren. Jüre hätte mitgemacht."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "processor": {
+            "type": "paragraph",
+            "content-after": "RETURN",
+            "node": "p",
+            "title": "GT Autor"
+        },
+        "children": [
+            {
+                "processor": {
+                    "type": "inline",
+                    "title": "GT Autor"
+                },
+                "children": [
+                    {
+                        "processor": {
+                            "type": "text"
+                        },
+                        "value": "Christoph Hugenschmidt"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "processor": {
+            "type": "paragraph",
+            "content-after": "RETURN",
+            "node": "p",
+            "title": "GT"
+        },
+        "children": [
+            {
+                "processor": {
+                    "type": "inline",
+                    "title": "GT"
+                },
+                "children": []
+            }
+        ]
+    },
+    {
+        "processor": {
+            "type": "paragraph",
+            "content-after": "RETURN",
+            "node": "p",
+            "title": "GT Zeitung Auszeichnung"
+        },
+        "children": [
+            {
+                "processor": {
+                    "type": "inline",
+                    "title": "GT Zeitung Auszeichnung Kursiv"
+                },
+                "children": [
+                    {
+                        "processor": {
+                            "type": "text"
+                        },
+                        "value": "Ende März 2002 wurde der angebliche «Notstand» bei Flüchtlings­unterkünften im Kanton Zürich für beendet erklärt und der  Bunker in Uster geschlossen. Doch die Strategie, Flüchtlinge unter möglichst schlechten Bedingungen festzuhalten, konnte sich  leider als «normal» etablieren. Heute, im Februar 2005, wird der  Bunker in Uster wieder dazu benützt, Flüchtlinge, auf deren  Asylgesuch nicht eingetreten wurde, einzupferchen. So sollen sie  dazu gebracht werden, «freiwillig» auszureisen."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "processor": {
+            "type": "paragraph",
+            "content-after": "RETURN",
+            "node": "p",
+            "title": "Legende"
+        },
+        "children": [
+            {
+                "processor": {
+                    "type": "inline",
+                    "title": "Legende bold"
+                },
+                "children": [
+                    {
+                        "processor": {
+                            "type": "text"
+                        },
+                        "value": "Notrecht/Refugium."
+                    }
+                ]
+            },
+            {
+                "processor": {
+                    "type": "inline",
+                    "title": "Legende"
+                },
+                "children": [
+                    {
+                        "processor": {
+                            "type": "text"
+                        },
+                        "value": " 1994, Linolschnitt, 425 "
+                    }
+                ]
+            },
+            {
+                "processor": {
+                    "type": "inline",
+                    "title": "Legende Mathematica"
+                },
+                "children": [
+                    {
+                        "processor": {
+                            "type": "text"
+                        },
+                        "value": "3"
+                    }
+                ]
+            },
+            {
+                "processor": {
+                    "type": "inline",
+                    "title": "Legende"
+                },
+                "children": [
+                    {
+                        "processor": {
+                            "type": "text"
+                        },
+                        "value": " 305 mm"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "processor": {
+            "type": "paragraph",
+            "content-after": "RETURN",
+            "node": "p",
+            "title": "Legende"
+        },
+        "children": [
+            {
+                "processor": {
+                    "type": "inline",
+                    "title": "Legende bold"
+                },
+                "children": [
+                    {
+                        "processor": {
+                            "type": "text"
+                        },
+                        "value": "Refugium I."
+                    }
+                ]
+            },
+            {
+                "processor": {
+                    "type": "inline",
+                    "title": "Legende"
+                },
+                "children": [
+                    {
+                        "processor": {
+                            "type": "text"
+                        },
+                        "value": " Neumarkttheater. 1989 (Gertrud Vogler)"
+                    }
+                ]
+            }
+        ]
+    }
+]
